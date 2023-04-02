@@ -6,6 +6,7 @@ import ENGLISHIMG from "./../assets/english.png";
 import HINDIPDF from "./../assets/hindi.pdf";
 import ENGLISHPDF from "./../assets/english.pdf";
 import download from "downloadjs";
+import axios from "axios";
 import {
   MdRefresh,
   MdOutlineFileDownload,
@@ -15,7 +16,7 @@ import html2canvas from "html2canvas";
 import { PDFDocument, rgb, StandardFonts } from "pdf-lib";
 
 const DownloadPoster = () => {
-  const { docInfo, setLoading } = useContext(AppContext);
+  const { user, docInfo, setLoading } = useContext(AppContext);
   let myPdf;
   if (docInfo) {
     // myPdf = `${tempInfo.name}/${tempInfo.path}/${tempInfo.path}.pdf`;
@@ -47,18 +48,49 @@ const DownloadPoster = () => {
     })
       .then((canvas) => {
         var myImage = canvas.toDataURL("image/jpeg", 1);
-        const link = document.createElement("a");
-        link.href = myImage;
-        link.target = "_blank";
-        link.setAttribute("download", "image.jpeg");
-        document.body.appendChild(link);
-        link.click();
-        setLoading(false);
+        uploadData(myImage);
+        // const link = document.createElement("a");
+        // link.href = myImage;
+        // link.target = "_blank";
+        // link.setAttribute("download", "image.jpeg");
+        // document.body.appendChild(link);
+        // link.click();
+        // setLoading(false);
       })
       .catch(function (error) {
         console.log(error);
         setLoading(false);
         alert("oops, something went wrong!", error);
+      });
+  };
+  const uploadData = async (img) => {
+    const data = {
+      emp_id: user?.emp_id,
+      emp_name: user?.emp_name,
+      region: user?.region,
+      hq: user?.hq,
+      doc_name: docInfo?.doc_name,
+      doc_contact: docInfo?.doc_contact,
+      template: img,
+    };
+
+    await axios
+      .post("insert.php", data)
+      .then((response) => {
+        console.log(response);
+        if (response.status === 200) {
+          const link = document.createElement("a");
+          link.href = `https://zyduscustomizedposter.in/${response.data.path}`;
+          link.target = "_blank";
+          link.setAttribute("download", "image.jpeg");
+          document.body.appendChild(link);
+          link.click();
+          setLoading(false);
+        }
+      })
+      .catch((err) => {
+        setLoading(false);
+        console.log(err);
       });
   };
 
