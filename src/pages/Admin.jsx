@@ -397,10 +397,12 @@ const Admin = () => {
       <div className="bg-white shadow rounded-xl">
         {" "}
         {isFetching && "fetching data..."}
-        {!isFetching && posters.length && (
+        {!isFetching && posters.length ? (
           <Fancybox>
             <Table columns={columns} data={posters} />
           </Fancybox>
+        ) : (
+          <div className="p-4">No data available</div>
         )}
       </div>
     </div>
