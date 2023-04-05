@@ -326,7 +326,7 @@ const Admin = () => {
       try {
         const res = await axios.get("all-users.php");
         if (res.data?.users) {
-          setPosters(res.data?.users);
+          setPosters(res.data?.users.reverse());
         }
       } catch (error) {
         console.log(error);
