@@ -1,10 +1,11 @@
 import { useContext, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import { AppContext } from "../context";
-import HINDIIMG from "./../assets/hindi.png";
-import ENGLISHIMG from "./../assets/english.png";
-import HINDIPDF from "./../assets/hindi.pdf";
-import ENGLISHPDF from "./../assets/english.pdf";
+import templates from "./../lib/templates";
+// import HINDIIMG from "./../assets/hindi.png";
+// import ENGLISHIMG from "./../assets/english.png";
+// import HINDIPDF from "./../assets/hindi.pdf";
+// import ENGLISHPDF from "./../assets/english.pdf";
 import download from "downloadjs";
 import axios from "axios";
 import {
@@ -20,8 +21,12 @@ const DownloadPoster = () => {
   let myPdf;
   if (docInfo) {
     // myPdf = `${tempInfo.name}/${tempInfo.path}/${tempInfo.path}.pdf`;
-    myPdf = docInfo?.poster_language === "hindi" ? HINDIPDF : ENGLISHPDF;
+    // myPdf = docInfo?.poster_language === "hindi" ? "HINDIPDF" : "ENGLISHPDF";
+    myPdf = `templates/${templates[0].poster_path}/${
+      docInfo?.poster_language === "english" ? "english.pdf" : "hindi.pdf"
+    }`;
   }
+
   const navigate = useNavigate();
   useEffect(() => {
     if (!docInfo) {
@@ -71,8 +76,10 @@ const DownloadPoster = () => {
       hq: user?.hq,
       doc_name: docInfo?.doc_name,
       doc_contact: docInfo?.doc_contact,
+      poster_name: templates[0]?.poster_name,
       template: img,
     };
+    console.log(data);
 
     await axios
       .post("insert.php", data)
@@ -143,6 +150,7 @@ const DownloadPoster = () => {
     firstPage.drawImage(pngImage, {
       x: 63,
       y: 105,
+      // y: 107,
       width: 115,
       height: 115,
     });
@@ -154,11 +162,15 @@ const DownloadPoster = () => {
       <div className="py-4">
         <div id="fullImg" className="w-[320px] shadow-xl relative">
           <img
-            src={docInfo?.poster_language === "hindi" ? HINDIIMG : ENGLISHIMG}
+            src={`templates/${templates[0].poster_path}/${
+              docInfo?.poster_language === "english"
+                ? "english.png"
+                : "hindi.png"
+            }`}
           />
           <div className="px-8 w-full absolute bottom-12 py-3">
             <div className="bg-white py-2 rounded-3xl relative pl-[70px] border border-gray-200 shadow-lg">
-              <div className="w-16 h-16 border-2 border-[#065b33] rounded-full absolute left-0 top-[50%] translate-y-[-50%] overflow-hidden">
+              <div className="w-16 h-16 border-2 border-[#7c51a1] rounded-full absolute left-0 top-[50%] translate-y-[-50%] overflow-hidden">
                 <img src={docInfo?.photo} alt="user" />
               </div>
               <div className="flex flex-col gap-1">

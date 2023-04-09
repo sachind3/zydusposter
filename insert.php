@@ -23,6 +23,7 @@ if (
     && !empty(trim($data->region))
     && !empty(trim($data->doc_name))
     && !empty(trim($data->doc_contact))
+    && !empty(trim($data->poster_name))
 ) {
     $t = time() + rand(1, 100000);
     $image = $data->template;
@@ -40,9 +41,10 @@ if (
     $region = mysqli_real_escape_string($db_conn, trim($data->region));
     $doc_name = mysqli_real_escape_string($db_conn, trim($data->doc_name));
     $doc_contact = mysqli_real_escape_string($db_conn, trim($data->doc_contact));
+    $poster_name = mysqli_real_escape_string($db_conn, trim($data->poster_name));
  
     $template =  "uploaded/" . $t . ".jpeg";
-    $insertUser = mysqli_query($db_conn, "INSERT INTO `users`(`emp_id`,`emp_name`,`hq`,`region`,`doc_name`,`doc_contact`,`template`) VALUES('$emp_id','$emp_name','$hq','$region','$doc_name','$doc_contact','$template')");
+    $insertUser = mysqli_query($db_conn, "INSERT INTO `users`(`emp_id`,`emp_name`,`hq`,`region`,`doc_name`,`doc_contact`,`poster_name`,`template`) VALUES('$emp_id','$emp_name','$hq','$region','$doc_name','$doc_contact','$poster_name','$template')");
 
     if ($insertUser) {
         $last_id = mysqli_insert_id($db_conn);

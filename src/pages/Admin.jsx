@@ -367,9 +367,13 @@ const Admin = () => {
         Header: "Doctor Contact",
         accessor: (d) => d.doc_contact,
       },
+      {
+        Header: "Poster Name",
+        accessor: (d) => d.poster_name,
+      },
 
       {
-        Header: "Poster",
+        Header: "Poster Image",
         accessor: "template",
         disableFilters: true,
         Cell: ({ row }) => (
