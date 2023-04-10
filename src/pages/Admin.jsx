@@ -367,10 +367,10 @@ const Admin = () => {
         Header: "Doctor Contact",
         accessor: (d) => d.doc_contact,
       },
-      {
-        Header: "Poster Name",
-        accessor: (d) => d.poster_name,
-      },
+      // {
+      //   Header: "Poster Name",
+      //   accessor: (d) => d.poster_name,
+      // },
 
       {
         Header: "Poster Image",

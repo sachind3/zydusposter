@@ -149,8 +149,8 @@ const DownloadPoster = () => {
     });
     firstPage.drawImage(pngImage, {
       x: 63,
-      y: 105,
-      // y: 107,
+      // y: 105,
+      y: 107,
       width: 115,
       height: 115,
     });
