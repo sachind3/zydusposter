@@ -161,7 +161,7 @@ const Home = () => {
                       className="form-control"
                     >
                       <option value="english">English</option>
-                      <option value="hindi">Hindi</option>
+                      {/* <option value="hindi">Hindi</option> */}
                     </Field>
                   </div>
                   <ErrorMessage
