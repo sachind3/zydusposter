@@ -163,7 +163,8 @@ const DownloadPoster = () => {
                 : "hindi.png"
             }`}
           />
-          <div className="px-8 w-full absolute bottom-12 py-3">
+          {/* with contact */}
+          {/* <div className="px-8 w-full absolute bottom-12 py-3">
             <div className="bg-white py-2 rounded-3xl relative pl-[70px] border border-gray-200 shadow-lg">
               <div className="w-16 h-16 border-2 border-gray-200 rounded-full absolute left-[-2px] top-[50%] translate-y-[-50%] overflow-hidden">
                 <img src={docInfo?.photo} alt="user" />
@@ -173,6 +174,19 @@ const DownloadPoster = () => {
                   {docInfo?.doc_name}
                 </div>
                 <div className="text-xs">{docInfo?.doc_contact}</div>
+              </div>
+            </div>
+          </div> */}
+          <div className="px-8 w-full absolute bottom-14 py-3">
+            <div className="bg-white py-4 rounded-3xl relative pl-[70px] border border-gray-200 shadow-lg">
+              <div className="w-16 h-16 border-2 border-gray-200 rounded-full absolute left-[-2px] top-[50%] translate-y-[-50%] overflow-hidden">
+                <img src={docInfo?.photo} alt="user" />
+              </div>
+              <div className="flex flex-col gap-1">
+                <div className="text-[14px] font-semibold leading-4">
+                  {docInfo?.doc_name}
+                </div>
+                {/* <div className="text-xs">{docInfo?.doc_contact}</div> */}
               </div>
             </div>
           </div>

@@ -10,7 +10,7 @@ const AddDoctor = () => {
   const navigate = useNavigate();
   const validationSchema = Yup.object().shape({
     doc_name: Yup.string().required("Doctor name is required"),
-    doc_contact: Yup.number().required("Doctor contact is required"),
+    // doc_contact: Yup.number().required("Doctor contact is required"),
     poster_language: Yup.string().required("Poster language is required"),
     photo: Yup.mixed().when({
       is: null,
@@ -32,7 +32,7 @@ const AddDoctor = () => {
         <Formik
           initialValues={{
             doc_name: "",
-            doc_contact: "",
+            // doc_contact: "",
             poster_language: "english",
             photo: null,
           }}
@@ -40,7 +40,8 @@ const AddDoctor = () => {
           onSubmit={(val) => {
             const data = {
               doc_name: `Dr. ${val.doc_name}`,
-              doc_contact: val.doc_contact,
+              // doc_contact: val.doc_contact,
+              doc_contact: "0",
               poster_language: val.poster_language,
               photo: val.photo,
             };
@@ -134,7 +135,7 @@ const AddDoctor = () => {
                     className="hasError"
                   />
                 </div>
-                <div className="form-group">
+                {/* <div className="form-group">
                   <label htmlFor="doc_contact" className="form-label">
                     Contact Number
                   </label>
@@ -153,7 +154,7 @@ const AddDoctor = () => {
                     component="div"
                     className="hasError"
                   />
-                </div>
+                </div> */}
                 <div className="form-group">
                   <label htmlFor="poster_language" className="form-label">
                     Select Poster Language

@@ -17,12 +17,12 @@ const templates = [
   //   poster_name: "poster 3",
   //   lang: ["english"],
   // },
-  {
-    id: "4",
-    poster_path: "poster-4",
-    poster_name: "poster 4",
-    lang: ["english"],
-  },
+  // {
+  //   id: "4",
+  //   poster_path: "poster-4",
+  //   poster_name: "poster 4",
+  //   lang: ["english"],
+  // },
   {
     id: "5",
     poster_path: "poster-5",
