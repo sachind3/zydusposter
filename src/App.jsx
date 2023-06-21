@@ -1,6 +1,7 @@
 import { Navigate, Route, Routes } from "react-router-dom";
 import Login from "./pages/Login";
 import Home from "./pages/Home";
+import AddDoctor from "./pages/AddDoctor";
 import Layout from "./components/Layout";
 import Admin from "./pages/Admin";
 import ProtectedRoute from "./components/ProtectedRoute";
@@ -13,6 +14,7 @@ const App = () => {
         <Route path="login" element={<Login />} />
         <Route element={<ProtectedRoute />}>
           <Route index element={<Home />} />
+          <Route path="add-doctor" element={<AddDoctor />} />
           <Route path="download-poster" element={<DownloadPoster />} />
         </Route>
       </Route>

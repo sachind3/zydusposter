@@ -13,10 +13,10 @@ import html2canvas from "html2canvas";
 import { PDFDocument, rgb, StandardFonts } from "pdf-lib";
 
 const DownloadPoster = () => {
-  const { user, docInfo, setLoading } = useContext(AppContext);
+  const { user, docInfo, setLoading, selectedPoster } = useContext(AppContext);
   let myPdf;
-  if (docInfo) {
-    myPdf = `templates/${templates[0].poster_path}/${
+  if (selectedPoster) {
+    myPdf = `templates/${selectedPoster.poster_path}/${
       docInfo?.poster_language === "english" ? "english.pdf" : "hindi.pdf"
     }`;
   }
@@ -70,7 +70,7 @@ const DownloadPoster = () => {
       hq: user?.hq,
       doc_name: docInfo?.doc_name,
       doc_contact: docInfo?.doc_contact,
-      poster_name: templates[0]?.poster_name,
+      poster_name: selectedPoster?.poster_name,
       template: img,
     };
     console.log(data);
@@ -100,64 +100,64 @@ const DownloadPoster = () => {
     ctx.arc(512 / 2, 512 / 2, 512 / 2, 0, Math.PI * 2, false);
   }
 
-  const downloadPDF = async () => {
-    let pdfPhoto = "";
-    const canvas = document.createElement("canvas");
-    const ctx = canvas.getContext("2d");
-    const img = new Image();
-    img.crossOrigin = "";
-    img.src = docInfo?.photo;
-    img.onload = () => {
-      canvas.width = 512;
-      canvas.height = 512;
-      roundedImage(ctx, 0, 0, 512, 512, 512 / 2);
-      ctx.clip();
-      ctx.drawImage(img, 0, 0, 512, 512);
-      pdfPhoto = canvas.toDataURL("image/png");
-    };
-    const existingPdfBytes = await fetch(myPdf).then((res) =>
-      res.arrayBuffer()
-    );
-    const pngImageBytes = await fetch(pdfPhoto).then((res) =>
-      res.arrayBuffer()
-    );
-    const pdfDoc = await PDFDocument.load(existingPdfBytes);
-    const pngImage = await pdfDoc.embedPng(pngImageBytes);
-    const helveticaBold = await pdfDoc.embedFont(StandardFonts.HelveticaBold);
-    const helveticaNormal = await pdfDoc.embedFont(StandardFonts.Helvetica);
-    const pages = pdfDoc.getPages();
-    const firstPage = pages[0];
-    firstPage.drawText(docInfo?.doc_name, {
-      x: 200,
-      y: 170,
-      size: 22,
-      font: helveticaBold,
-      color: rgb(0, 0, 0),
-    });
-    firstPage.drawText(docInfo?.doc_contact.toString(), {
-      x: 200,
-      y: 140,
-      size: 20,
-      font: helveticaNormal,
-      color: rgb(0, 0, 0),
-    });
-    firstPage.drawImage(pngImage, {
-      // x: 63,
-      x: 64,
-      y: 105,
-      // y: 107,
-      width: 115,
-      height: 115,
-    });
-    const pdfBytes = await pdfDoc.save();
-    download(pdfBytes, `pdf.pdf`, "application/pdf");
-  };
+  // const downloadPDF = async () => {
+  //   let pdfPhoto = "";
+  //   const canvas = document.createElement("canvas");
+  //   const ctx = canvas.getContext("2d");
+  //   const img = new Image();
+  //   img.crossOrigin = "";
+  //   img.src = docInfo?.photo;
+  //   img.onload = () => {
+  //     canvas.width = 512;
+  //     canvas.height = 512;
+  //     roundedImage(ctx, 0, 0, 512, 512, 512 / 2);
+  //     ctx.clip();
+  //     ctx.drawImage(img, 0, 0, 512, 512);
+  //     pdfPhoto = canvas.toDataURL("image/png");
+  //   };
+  //   const existingPdfBytes = await fetch(myPdf).then((res) =>
+  //     res.arrayBuffer()
+  //   );
+  //   const pngImageBytes = await fetch(pdfPhoto).then((res) =>
+  //     res.arrayBuffer()
+  //   );
+  //   const pdfDoc = await PDFDocument.load(existingPdfBytes);
+  //   const pngImage = await pdfDoc.embedPng(pngImageBytes);
+  //   const helveticaBold = await pdfDoc.embedFont(StandardFonts.HelveticaBold);
+  //   const helveticaNormal = await pdfDoc.embedFont(StandardFonts.Helvetica);
+  //   const pages = pdfDoc.getPages();
+  //   const firstPage = pages[0];
+  //   firstPage.drawText(docInfo?.doc_name, {
+  //     x: 200,
+  //     y: 170,
+  //     size: 22,
+  //     font: helveticaBold,
+  //     color: rgb(0, 0, 0),
+  //   });
+  //   firstPage.drawText(docInfo?.doc_contact.toString(), {
+  //     x: 200,
+  //     y: 140,
+  //     size: 20,
+  //     font: helveticaNormal,
+  //     color: rgb(0, 0, 0),
+  //   });
+  //   firstPage.drawImage(pngImage, {
+  //     // x: 63,
+  //     x: 64,
+  //     y: 105,
+  //     // y: 107,
+  //     width: 115,
+  //     height: 115,
+  //   });
+  //   const pdfBytes = await pdfDoc.save();
+  //   download(pdfBytes, `pdf.pdf`, "application/pdf");
+  // };
   return (
     <>
       <div className="py-4">
         <div id="fullImg" className="w-[320px] shadow-xl relative">
           <img
-            src={`templates/${templates[0].poster_path}/${
+            src={`templates/${selectedPoster?.poster_path}/${
               docInfo?.poster_language === "english"
                 ? "english.png"
                 : "hindi.png"
@@ -165,7 +165,7 @@ const DownloadPoster = () => {
           />
           <div className="px-8 w-full absolute bottom-12 py-3">
             <div className="bg-white py-2 rounded-3xl relative pl-[70px] border border-gray-200 shadow-lg">
-              <div className="w-16 h-16 border-2 border-[#67429a] rounded-full absolute left-0 top-[50%] translate-y-[-50%] overflow-hidden">
+              <div className="w-16 h-16 border-2 border-gray-200 rounded-full absolute left-[-2px] top-[50%] translate-y-[-50%] overflow-hidden">
                 <img src={docInfo?.photo} alt="user" />
               </div>
               <div className="flex flex-col gap-1">
@@ -185,9 +185,9 @@ const DownloadPoster = () => {
         <button onClick={downloadImage}>
           <MdOutlineFileDownload />
         </button>
-        <button onClick={downloadPDF}>
+        {/* <button onClick={downloadPDF}>
           <MdPictureAsPdf />
-        </button>
+        </button> */}
       </div>
     </>
   );

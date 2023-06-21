@@ -39,4 +39,12 @@
   .actionBtns button {
     @apply w-10 h-10 bg-teal-800 rounded-full text-white flex items-center justify-center text-xl shadow-lg
   }
+  .swiper-button-prev.swiperBtn,
+  .swiper-button-next.swiperBtn {
+    @apply bg-teal-500 text-white rounded text-sm h-auto px-4 py-2 w-auto shadow-md;
+  }
+  .swiper-button-prev.prev:after,
+  .swiper-button-next.next:after {
+    display: none;
+  }
 }
