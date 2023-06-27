@@ -69,7 +69,7 @@ const DownloadPoster = () => {
       region: user?.region,
       hq: user?.hq,
       doc_name: docInfo?.doc_name,
-      doc_contact: docInfo?.doc_contact,
+      doc_contact: "-",
       poster_name: selectedPoster?.poster_name,
       template: img,
     };
