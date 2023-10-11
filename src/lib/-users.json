@@ -1,0 +1,3704 @@
+[
+  {
+    "emp_id": 134621,
+    "emp_name": "MR SACHIN CHAWLA",
+    "hq": "DELHI",
+    "region": "DELHI"
+  },
+  {
+    "emp_id": 26205,
+    "emp_name": "MR VINEET  KUMAR SINGH",
+    "hq": "DELHI",
+    "region": "DELHI"
+  },
+  {
+    "emp_id": 83165,
+    "emp_name": "MR PRADEEP KUMAR SAHU",
+    "hq": "DELHI-I (NORTH)",
+    "region": "DELHI"
+  },
+  {
+    "emp_id": 107710,
+    "emp_name": "MR OMPRAKASH SHARMA",
+    "hq": "DELHI-I (NORTH)",
+    "region": "DELHI"
+  },
+  {
+    "emp_id": 131942,
+    "emp_name": "MR DHEERAJ TYAGI",
+    "hq": "DELHI-I (NORTH)",
+    "region": "DELHI"
+  },
+  {
+    "emp_id": 61511,
+    "emp_name": "MR MOHAMMAD SIKANDER",
+    "hq": "DELHI-I (NORTH)",
+    "region": "DELHI"
+  },
+  {
+    "emp_id": 102248,
+    "emp_name": "MR SUMIT KHAJURIA",
+    "hq": "DELHI-I (NORTH)",
+    "region": "DELHI"
+  },
+  {
+    "emp_id": 110718,
+    "emp_name": "MR AMIT KUMAR BHARTI",
+    "hq": "DELHI-I (NORTH)",
+    "region": "DELHI"
+  },
+  {
+    "emp_id": 107526,
+    "emp_name": "MR VINAY KUMAR GAUR",
+    "hq": "DELHI-I (NORTH)",
+    "region": "DELHI"
+  },
+  {
+    "emp_id": 113867,
+    "emp_name": "MR DEEPAK SINGH",
+    "hq": "DELHI-II (EAST)",
+    "region": "DELHI"
+  },
+  {
+    "emp_id": 113689,
+    "emp_name": "MR KAPIL DEV CHATURVEDI",
+    "hq": "DELHI-II (EAST)",
+    "region": "DELHI"
+  },
+  {
+    "emp_id": 135368,
+    "emp_name": "MR ANUJ ARORA",
+    "hq": "DELHI-II (EAST)",
+    "region": "DELHI"
+  },
+  {
+    "emp_id": 113846,
+    "emp_name": "MR RAHIL I",
+    "hq": "DELHI-II (EAST)",
+    "region": "DELHI"
+  },
+  {
+    "emp_id": 126261,
+    "emp_name": "MR HEMENDRA SHARMA",
+    "hq": "DELHI-II (EAST)",
+    "region": "DELHI"
+  },
+  {
+    "emp_id": 113847,
+    "emp_name": "MR ARIF KHURSHID",
+    "hq": "DELHI-II (EAST)",
+    "region": "DELHI"
+  },
+  {
+    "emp_id": 106953,
+    "emp_name": "MR HASMUDDIN MALIK",
+    "hq": "DELHI-II (EAST)",
+    "region": "DELHI"
+  },
+  {
+    "emp_id": 110716,
+    "emp_name": "MR MANTOSH KUMAR",
+    "hq": "DELHI-III (WEST)",
+    "region": "DELHI"
+  },
+  {
+    "emp_id": 114380,
+    "emp_name": "MR PRAKASH JHA",
+    "hq": "DELHI-III (WEST)",
+    "region": "DELHI"
+  },
+  {
+    "emp_id": 26211,
+    "emp_name": "MR NARENDER PARBAKHER",
+    "hq": "DELHI-III (WEST)",
+    "region": "DELHI"
+  },
+  {
+    "emp_id": 127452,
+    "emp_name": "MR KAMALDEEP SINGH",
+    "hq": "DELHI-III (WEST)",
+    "region": "DELHI"
+  },
+  {
+    "emp_id": 112811,
+    "emp_name": "MR VIJAY PAL",
+    "hq": "DELHI-III (WEST)",
+    "region": "DELHI"
+  },
+  {
+    "emp_id": 101138,
+    "emp_name": "MR LAL BIHARI PRASAD",
+    "hq": "DELHI-III (WEST)",
+    "region": "DELHI"
+  },
+  {
+    "emp_id": 111221,
+    "emp_name": "MR SURYA PRAKASH",
+    "hq": "DELHI-III (WEST)",
+    "region": "DELHI"
+  },
+  {
+    "emp_id": 121551,
+    "emp_name": "MR SANJAY BAKHLA",
+    "hq": "DELHI-VI (SOUTH 1)",
+    "region": "DELHI"
+  },
+  {
+    "emp_id": 135687,
+    "emp_name": "MR SUMIT KUMAR",
+    "hq": "DELHI-VI (SOUTH 1)",
+    "region": "DELHI"
+  },
+  {
+    "emp_id": 110660,
+    "emp_name": "MR ARUN SINGH",
+    "hq": "DELHI-VI (SOUTH 1)",
+    "region": "DELHI"
+  },
+  {
+    "emp_id": 114685,
+    "emp_name": "MR PRADEEP KUMAR SONI",
+    "hq": "DELHI-VI (SOUTH 1)",
+    "region": "DELHI"
+  },
+  {
+    "emp_id": 137040,
+    "emp_name": "MR RAJAT TYAGI",
+    "hq": "DELHI-VI (SOUTH 1)",
+    "region": "DELHI"
+  },
+  {
+    "emp_id": 131102,
+    "emp_name": "MR MAYANK RAJ",
+    "hq": "DELHI-VI (SOUTH 1)",
+    "region": "DELHI"
+  },
+  {
+    "emp_id": 45725,
+    "emp_name": "MR ANOKHE LAL SINGH",
+    "hq": "DELHI-IV (SOUTH)",
+    "region": "DELHI"
+  },
+  {
+    "emp_id": 1001,
+    "emp_name": "MR SUNIL KUMAR",
+    "hq": "DELHI-IV (SOUTH)",
+    "region": "DELHI"
+  },
+  {
+    "emp_id": 132731,
+    "emp_name": "MR SHAHJAD",
+    "hq": "DELHI-IV (SOUTH)",
+    "region": "DELHI"
+  },
+  {
+    "emp_id": 80756,
+    "emp_name": "MR SHADAB ALI",
+    "hq": "DELHI-IV (SOUTH)",
+    "region": "DELHI"
+  },
+  {
+    "emp_id": 84733,
+    "emp_name": "MS BHAWNA SEHGAL",
+    "hq": "DELHI-IV (SOUTH)",
+    "region": "DELHI"
+  },
+  {
+    "emp_id": 117048,
+    "emp_name": "MR KULDEEP SINGH",
+    "hq": "DELHI-IV (SOUTH)",
+    "region": "DELHI"
+  },
+  {
+    "emp_id": 103479,
+    "emp_name": "MR NIKHIL TOMAR",
+    "hq": "DELHI-V (CENTRAL)",
+    "region": "DELHI"
+  },
+  {
+    "emp_id": 117046,
+    "emp_name": "MR RAHUL KUMAR",
+    "hq": "DELHI-V (CENTRAL)",
+    "region": "DELHI"
+  },
+  {
+    "emp_id": 121297,
+    "emp_name": "MR SURYA PRATAP YADAV",
+    "hq": "DELHI-V (CENTRAL)",
+    "region": "DELHI"
+  },
+  {
+    "emp_id": 113687,
+    "emp_name": "MR HIMANSHU WADHER",
+    "hq": "DELHI-V (CENTRAL)",
+    "region": "DELHI"
+  },
+  {
+    "emp_id": 68164,
+    "emp_name": "MS SIMASRI SAMAL",
+    "hq": "DELHI-V (CENTRAL)",
+    "region": "DELHI"
+  },
+  {
+    "emp_id": 80746,
+    "emp_name": "MS SHIVANI RAJ",
+    "hq": "DELHI-V (CENTRAL)",
+    "region": "DELHI"
+  },
+  {
+    "emp_id": 110983,
+    "emp_name": "MR YOGINDER RANA",
+    "hq": "DELHI-V (CENTRAL)",
+    "region": "DELHI"
+  },
+  {
+    "emp_id": 6497,
+    "emp_name": "MR ANURAG CHAUDHARY",
+    "hq": "JAMMU",
+    "region": "JAMMU"
+  },
+  {
+    "emp_id": 9788,
+    "emp_name": "MR SANDEEP SHARMA",
+    "hq": "JAMMU",
+    "region": "JAMMU"
+  },
+  {
+    "emp_id": 3973,
+    "emp_name": "MR ANIL KUMAR RAINA",
+    "hq": "JAMMU",
+    "region": "JAMMU"
+  },
+  {
+    "emp_id": 134441,
+    "emp_name": "MR MAYANK MAHAJAN",
+    "hq": "JAMMU",
+    "region": "JAMMU"
+  },
+  {
+    "emp_id": 20731,
+    "emp_name": "MR RAVI RAINA",
+    "hq": "JAMMU",
+    "region": "JAMMU"
+  },
+  {
+    "emp_id": 23014,
+    "emp_name": "MR NITIN SOOD",
+    "hq": "KANGRA (DHARAMSALA)",
+    "region": "JAMMU"
+  },
+  {
+    "emp_id": 2020,
+    "emp_name": "MR MANOJ JASWAL",
+    "hq": "HOSHIARPUR",
+    "region": "JAMMU"
+  },
+  {
+    "emp_id": 35384,
+    "emp_name": "MR VARINDER SINGH",
+    "hq": "KHANNA",
+    "region": "JAMMU"
+  },
+  {
+    "emp_id": 11135,
+    "emp_name": "MR MOHAMMED  ASLAM   KHAN",
+    "hq": "SRINAGAR",
+    "region": "JAMMU"
+  },
+  {
+    "emp_id": 15338,
+    "emp_name": "MR IMRAN  BAZAZ",
+    "hq": "SRINAGAR",
+    "region": "JAMMU"
+  },
+  {
+    "emp_id": 69738,
+    "emp_name": "MR DAR LIYAQAT ALI",
+    "hq": "SRINAGAR",
+    "region": "JAMMU"
+  },
+  {
+    "emp_id": 111584,
+    "emp_name": "MR MUDDASIR BHAT",
+    "hq": "SRINAGAR",
+    "region": "JAMMU"
+  },
+  {
+    "emp_id": 105285,
+    "emp_name": "MR HEMAYOUN PAHALWAN",
+    "hq": "SRINAGAR",
+    "region": "JAMMU"
+  },
+  {
+    "emp_id": 26214,
+    "emp_name": "MR AAMIR BASHIR SALROO",
+    "hq": "ANANTNAG",
+    "region": "JAMMU"
+  },
+  {
+    "emp_id": 20693,
+    "emp_name": "MR TARIQ AHMAD DAR",
+    "hq": "SOPORE",
+    "region": "JAMMU"
+  },
+  {
+    "emp_id": 8562,
+    "emp_name": "MR SURESH DOGRA",
+    "hq": "AMRITSAR",
+    "region": "JAMMU"
+  },
+  {
+    "emp_id": 1403,
+    "emp_name": "MR ANIL SAREEN",
+    "hq": "AMRITSAR",
+    "region": "JAMMU"
+  },
+  {
+    "emp_id": 11291,
+    "emp_name": "MR SUMIT SAINI",
+    "hq": "AMRITSAR I",
+    "region": "JAMMU"
+  },
+  {
+    "emp_id": 116009,
+    "emp_name": "MR HARDEEP SINGH",
+    "hq": "JALLANDHAR",
+    "region": "JAMMU"
+  },
+  {
+    "emp_id": 10309,
+    "emp_name": "MR NITIN GROVER",
+    "hq": "JALLANDHAR",
+    "region": "JAMMU"
+  },
+  {
+    "emp_id": 112610,
+    "emp_name": "MR DINESH KUMAR",
+    "hq": "PATHANKOT",
+    "region": "JAMMU"
+  },
+  {
+    "emp_id": 36970,
+    "emp_name": "MR MANPREET SINGH KOHLI",
+    "hq": "PATIALA",
+    "region": "JAMMU"
+  },
+  {
+    "emp_id": 48188,
+    "emp_name": "MR VINOD VERMA",
+    "hq": "CHANDIGARH",
+    "region": "CHANDIGARH"
+  },
+  {
+    "emp_id": 135130,
+    "emp_name": "MR PRAKASH KUMAR",
+    "hq": "CHANDIGARH",
+    "region": "CHANDIGARH"
+  },
+  {
+    "emp_id": 136507,
+    "emp_name": "MR HARSH PREET SINGH",
+    "hq": "CHANDIGARH",
+    "region": "CHANDIGARH"
+  },
+  {
+    "emp_id": 104797,
+    "emp_name": "MR RAHUL KUMAR",
+    "hq": "AMBALA",
+    "region": "CHANDIGARH"
+  },
+  {
+    "emp_id": 14889,
+    "emp_name": "MR JITENDER THAKUR",
+    "hq": "MOHALI",
+    "region": "CHANDIGARH"
+  },
+  {
+    "emp_id": 6092,
+    "emp_name": "MR AMIT CHHABRA",
+    "hq": "YAMUNANAGAR",
+    "region": "CHANDIGARH"
+  },
+  {
+    "emp_id": 24554,
+    "emp_name": "MR AMANDEEP CHAWLA",
+    "hq": "SANGRUR",
+    "region": "CHANDIGARH"
+  },
+  {
+    "emp_id": 10582,
+    "emp_name": "MR DINESH SINGH RANA",
+    "hq": "LUDHIANA",
+    "region": "CHANDIGARH"
+  },
+  {
+    "emp_id": 81095,
+    "emp_name": "MR SUMIT",
+    "hq": "LUDHIANA",
+    "region": "CHANDIGARH"
+  },
+  {
+    "emp_id": 31295,
+    "emp_name": "MR RAVINDER KUMAR",
+    "hq": "LUDHIANA",
+    "region": "CHANDIGARH"
+  },
+  {
+    "emp_id": 67048,
+    "emp_name": "MR PARDEEP ARORA",
+    "hq": "MOGA",
+    "region": "CHANDIGARH"
+  },
+  {
+    "emp_id": 86616,
+    "emp_name": "MR YOGESH POPLI",
+    "hq": "BHATINDA",
+    "region": "CHANDIGARH"
+  },
+  {
+    "emp_id": 87158,
+    "emp_name": "MR CHETAN SHARMA",
+    "hq": "BHATINDA",
+    "region": "CHANDIGARH"
+  },
+  {
+    "emp_id": 112926,
+    "emp_name": "MR VINOD KUMAR",
+    "hq": "ROHTAK",
+    "region": "CHANDIGARH"
+  },
+  {
+    "emp_id": 25889,
+    "emp_name": "MR DINESH CHOUDHRY",
+    "hq": "ROHTAK",
+    "region": "CHANDIGARH"
+  },
+  {
+    "emp_id": 12311,
+    "emp_name": "MR RAVI SARDANA",
+    "hq": "HISSAR",
+    "region": "CHANDIGARH"
+  },
+  {
+    "emp_id": 29673,
+    "emp_name": "MR MUKESH KUMAR MAKKAR",
+    "hq": "HISSAR",
+    "region": "CHANDIGARH"
+  },
+  {
+    "emp_id": 44453,
+    "emp_name": "MR BIJENDER KUMAR SHARMA",
+    "hq": "BHIWANI",
+    "region": "CHANDIGARH"
+  },
+  {
+    "emp_id": 69735,
+    "emp_name": "MR JAI KARAN SHARMA",
+    "hq": "KARNAL",
+    "region": "CHANDIGARH"
+  },
+  {
+    "emp_id": 22309,
+    "emp_name": "MR VIJENDER SHARMA",
+    "hq": "PANIPAT",
+    "region": "CHANDIGARH"
+  },
+  {
+    "emp_id": 83424,
+    "emp_name": "MR MALIK NADEEM AHMED",
+    "hq": "GURGAON",
+    "region": "CHANDIGARH"
+  },
+  {
+    "emp_id": 28160,
+    "emp_name": "MR VISHAL SHARMA",
+    "hq": "GURGAON",
+    "region": "CHANDIGARH"
+  },
+  {
+    "emp_id": 104063,
+    "emp_name": "MR YATENDRA PRATAP SINGH",
+    "hq": "GURGAON",
+    "region": "CHANDIGARH"
+  },
+  {
+    "emp_id": 13536,
+    "emp_name": "MR SACHIN GOYAL",
+    "hq": "FARIDABAD",
+    "region": "CHANDIGARH"
+  },
+  {
+    "emp_id": 63302,
+    "emp_name": "MR DEEPAK KUMAR",
+    "hq": "FARIDABAD",
+    "region": "CHANDIGARH"
+  },
+  {
+    "emp_id": 34890,
+    "emp_name": "MR HEERA LAL PRASAD",
+    "hq": "REWARI",
+    "region": "CHANDIGARH"
+  },
+  {
+    "emp_id": 107365,
+    "emp_name": "MR VIRENDRA SISODIA",
+    "hq": "JAIPUR",
+    "region": "JAIPUR"
+  },
+  {
+    "emp_id": 111990,
+    "emp_name": "MR AJAY SHARMA",
+    "hq": "JAIPUR",
+    "region": "JAIPUR"
+  },
+  {
+    "emp_id": 120595,
+    "emp_name": "MR DEEPAK KUMAR",
+    "hq": "JAIPUR",
+    "region": "JAIPUR"
+  },
+  {
+    "emp_id": 136417,
+    "emp_name": "MR ARVIND CHOUDHARY",
+    "hq": "JAIPUR",
+    "region": "JAIPUR"
+  },
+  {
+    "emp_id": 130573,
+    "emp_name": "MR VISHAN SWAROOP",
+    "hq": "JAIPUR",
+    "region": "JAIPUR"
+  },
+  {
+    "emp_id": 136541,
+    "emp_name": "MR SARANSH SONI",
+    "hq": "JAIPUR",
+    "region": "JAIPUR"
+  },
+  {
+    "emp_id": 131464,
+    "emp_name": "MR GIRIRAJ PRASAD SHARMA",
+    "hq": "JAIPUR",
+    "region": "JAIPUR"
+  },
+  {
+    "emp_id": 131605,
+    "emp_name": "MR PRAVEEN SEHGAL",
+    "hq": "JAIPUR",
+    "region": "JAIPUR"
+  },
+  {
+    "emp_id": 132166,
+    "emp_name": "MR SUMIT SHARMA",
+    "hq": "BIKANER",
+    "region": "JAIPUR"
+  },
+  {
+    "emp_id": 128709,
+    "emp_name": "MR RAJESH PUROHIT",
+    "hq": "BIKANER",
+    "region": "JAIPUR"
+  },
+  {
+    "emp_id": 104698,
+    "emp_name": "MR RAJ KUMAR CHAUHAN",
+    "hq": "SRIGANGA NAGAR",
+    "region": "JAIPUR"
+  },
+  {
+    "emp_id": 33570,
+    "emp_name": "MR SUSHIL JANGIR",
+    "hq": "JHUNJHUNU",
+    "region": "JAIPUR"
+  },
+  {
+    "emp_id": 102206,
+    "emp_name": "MR KESHAV PRAEEK",
+    "hq": "SIKAR",
+    "region": "JAIPUR"
+  },
+  {
+    "emp_id": 108029,
+    "emp_name": "MR MANJEET KUMAR SETHI",
+    "hq": "JODHPUR",
+    "region": "JAIPUR"
+  },
+  {
+    "emp_id": 134974,
+    "emp_name": "MR VISHAL GEHLOT",
+    "hq": "JODHPUR",
+    "region": "JAIPUR"
+  },
+  {
+    "emp_id": 130242,
+    "emp_name": "MR FIROZ KHAN",
+    "hq": "JODHPUR",
+    "region": "JAIPUR"
+  },
+  {
+    "emp_id": 30104,
+    "emp_name": "MR SUNIL KUMAR DOULTANI",
+    "hq": "PALI",
+    "region": "JAIPUR"
+  },
+  {
+    "emp_id": 69237,
+    "emp_name": "MR MO. ANWAR CHOUHAN",
+    "hq": "HANUMANGARH",
+    "region": "JAIPUR"
+  },
+  {
+    "emp_id": 134250,
+    "emp_name": "MR HEMENDRA SINGH BHAKAR",
+    "hq": "AJMER",
+    "region": "JAIPUR"
+  },
+  {
+    "emp_id": 130903,
+    "emp_name": "MR VARUN JOSHI",
+    "hq": "KOTA",
+    "region": "JAIPUR"
+  },
+  {
+    "emp_id": 134839,
+    "emp_name": "MR AJAY KUMAR",
+    "hq": "KOTA",
+    "region": "JAIPUR"
+  },
+  {
+    "emp_id": 133264,
+    "emp_name": "MR TARUN JAIN",
+    "hq": "KOTA",
+    "region": "JAIPUR"
+  },
+  {
+    "emp_id": 35194,
+    "emp_name": "MR AMIT MALHOTRA",
+    "hq": "ALWAR",
+    "region": "JAIPUR"
+  },
+  {
+    "emp_id": 136187,
+    "emp_name": "MR AKSHAY KUMAR KASLIWAL",
+    "hq": "BHILWARA",
+    "region": "JAIPUR"
+  },
+  {
+    "emp_id": 134294,
+    "emp_name": "MR SANJIV KUMAR DUBEY",
+    "hq": "LUCKNOW",
+    "region": "LUCKNOW"
+  },
+  {
+    "emp_id": 112330,
+    "emp_name": "MR AKASH SARASWAT",
+    "hq": "LUCKNOW",
+    "region": "LUCKNOW"
+  },
+  {
+    "emp_id": 49214,
+    "emp_name": "MR ARUN KUMAR SINGH",
+    "hq": "LUCKNOW",
+    "region": "LUCKNOW"
+  },
+  {
+    "emp_id": 120623,
+    "emp_name": "MR SHIV VARAT SHUKLA",
+    "hq": "LUCKNOW",
+    "region": "LUCKNOW"
+  },
+  {
+    "emp_id": 111623,
+    "emp_name": "MR MOHD TAHIR KHAN",
+    "hq": "LUCKNOW",
+    "region": "LUCKNOW"
+  },
+  {
+    "emp_id": 109165,
+    "emp_name": "MR NISHANT GUPTA",
+    "hq": "LUCKNOW",
+    "region": "LUCKNOW"
+  },
+  {
+    "emp_id": 108039,
+    "emp_name": "MR DEVINDAR MISHRA",
+    "hq": "LUCKNOW",
+    "region": "LUCKNOW"
+  },
+  {
+    "emp_id": 120923,
+    "emp_name": "MR NEERAJ TIWARI",
+    "hq": "LUCKNOW",
+    "region": "LUCKNOW"
+  },
+  {
+    "emp_id": 45814,
+    "emp_name": "MR MANEESH KUMAR VERMA",
+    "hq": "BARABANKI",
+    "region": "LUCKNOW"
+  },
+  {
+    "emp_id": 113959,
+    "emp_name": "MR ASHISH KUMAR PANDEY",
+    "hq": "RAIBAREILLY",
+    "region": "LUCKNOW"
+  },
+  {
+    "emp_id": 28805,
+    "emp_name": "MR SUSHEEL KUMAR DIWEDI",
+    "hq": "RAIBAREILLY",
+    "region": "LUCKNOW"
+  },
+  {
+    "emp_id": 61380,
+    "emp_name": "MR DINESH KUMAR MISHRA",
+    "hq": "RAIBAREILLY",
+    "region": "LUCKNOW"
+  },
+  {
+    "emp_id": 48206,
+    "emp_name": "MR ANKUR DWIVEDI",
+    "hq": "BANDA",
+    "region": "LUCKNOW"
+  },
+  {
+    "emp_id": 46988,
+    "emp_name": "MR RAM DULARE SINGH",
+    "hq": "FATEHPUR",
+    "region": "LUCKNOW"
+  },
+  {
+    "emp_id": 31496,
+    "emp_name": "MR CHANDRA PRAKASH YADAV",
+    "hq": "BAHARAICH",
+    "region": "LUCKNOW"
+  },
+  {
+    "emp_id": 44813,
+    "emp_name": "MR JAYESH KUMAR BAJPAI",
+    "hq": "ETAWAH",
+    "region": "LUCKNOW"
+  },
+  {
+    "emp_id": 112167,
+    "emp_name": "MR ANSAR AHMAD",
+    "hq": "KANPUR",
+    "region": "LUCKNOW"
+  },
+  {
+    "emp_id": 128840,
+    "emp_name": "MR RAJAT DUBEY",
+    "hq": "KANPUR",
+    "region": "LUCKNOW"
+  },
+  {
+    "emp_id": 117551,
+    "emp_name": "MR AJITESH PANDEY",
+    "hq": "KANPUR",
+    "region": "LUCKNOW"
+  },
+  {
+    "emp_id": 115248,
+    "emp_name": "MR ASHISH BAJPAI",
+    "hq": "KANPUR",
+    "region": "LUCKNOW"
+  },
+  {
+    "emp_id": 26924,
+    "emp_name": "MR VINAY GUPTA",
+    "hq": "ORAI",
+    "region": "LUCKNOW"
+  },
+  {
+    "emp_id": 35750,
+    "emp_name": "MR VISHAL MISHRA",
+    "hq": "FARRUKHABAD",
+    "region": "LUCKNOW"
+  },
+  {
+    "emp_id": 15341,
+    "emp_name": "MR DILEEP KUMAR MISHRA",
+    "hq": "BAREILLY",
+    "region": "LUCKNOW"
+  },
+  {
+    "emp_id": 134267,
+    "emp_name": "MR DHANESHWAR SINGH",
+    "hq": "BAREILLY",
+    "region": "LUCKNOW"
+  },
+  {
+    "emp_id": 815945,
+    "emp_name": "MR NASIR HUSSAIN",
+    "hq": "RUDRAPUR",
+    "region": "LUCKNOW"
+  },
+  {
+    "emp_id": 2635,
+    "emp_name": "MR R S HARARIYA",
+    "hq": "HALDWANI",
+    "region": "LUCKNOW"
+  },
+  {
+    "emp_id": 5629,
+    "emp_name": "MR RAVIKUMAR MISHRA",
+    "hq": "SAHAJAHANPUR",
+    "region": "LUCKNOW"
+  },
+  {
+    "emp_id": 29690,
+    "emp_name": "MR PUNEET MEHROTRA",
+    "hq": "SITAPUR",
+    "region": "LUCKNOW"
+  },
+  {
+    "emp_id": 40592,
+    "emp_name": "MR YOGESH KUMAR MISHRA",
+    "hq": "LAKHIMPUR",
+    "region": "LUCKNOW"
+  },
+  {
+    "emp_id": 132100,
+    "emp_name": "MR AMITESH PATHAK",
+    "hq": "VARANASI",
+    "region": "VARANASI"
+  },
+  {
+    "emp_id": 132309,
+    "emp_name": "MR VIVEK KUMAR JAISWAL",
+    "hq": "VARANASI",
+    "region": "VARANASI"
+  },
+  {
+    "emp_id": 103183,
+    "emp_name": "MR RAHUL VERMA",
+    "hq": "VARANASI",
+    "region": "VARANASI"
+  },
+  {
+    "emp_id": 104759,
+    "emp_name": "MR VIVEK CHAUHAN",
+    "hq": "VARANASI",
+    "region": "VARANASI"
+  },
+  {
+    "emp_id": 132358,
+    "emp_name": "MR GAURAV KUMAR",
+    "hq": "VARANASI",
+    "region": "VARANASI"
+  },
+  {
+    "emp_id": 81119,
+    "emp_name": "MR VIKAS KUMAR PANDEY",
+    "hq": "VARANASI",
+    "region": "VARANASI"
+  },
+  {
+    "emp_id": 30133,
+    "emp_name": "MR ANAND KUMAR MISHRA",
+    "hq": "BADHOI",
+    "region": "VARANASI"
+  },
+  {
+    "emp_id": 60112,
+    "emp_name": "MR AMIT KUMAR SINGH",
+    "hq": "BALIA",
+    "region": "VARANASI"
+  },
+  {
+    "emp_id": 14868,
+    "emp_name": "MR CHANDRA PRAKASH SRIWASTAV",
+    "hq": "MAU",
+    "region": "VARANASI"
+  },
+  {
+    "emp_id": 104744,
+    "emp_name": "MR AKHILESH SRIVASTAVA",
+    "hq": "ALLAHABAD",
+    "region": "VARANASI"
+  },
+  {
+    "emp_id": 63789,
+    "emp_name": "MR CHIRANJEEV KUMAR OJHA",
+    "hq": "ALLAHABAD",
+    "region": "VARANASI"
+  },
+  {
+    "emp_id": 82616,
+    "emp_name": "MR AMIT KUMAR SINGH",
+    "hq": "ALLAHABAD",
+    "region": "VARANASI"
+  },
+  {
+    "emp_id": 49523,
+    "emp_name": "MR SANTOSH SRIVASTAVA",
+    "hq": "PRATAPGARH",
+    "region": "VARANASI"
+  },
+  {
+    "emp_id": 43012,
+    "emp_name": "MR RAJESH KUMAR ",
+    "hq": "MIRZAPUR",
+    "region": "VARANASI"
+  },
+  {
+    "emp_id": 33650,
+    "emp_name": "MR DHEERAJ  KUMAR",
+    "hq": "AZAMGARH",
+    "region": "VARANASI"
+  },
+  {
+    "emp_id": 127459,
+    "emp_name": "MR SHIVAM UPADHYAY",
+    "hq": "AZAMGARH",
+    "region": "VARANASI"
+  },
+  {
+    "emp_id": 46414,
+    "emp_name": "MR SANDEEP KUMAR SHARMA",
+    "hq": "GORAKHPUR",
+    "region": "VARANASI"
+  },
+  {
+    "emp_id": 116212,
+    "emp_name": "MR MANISH KUMAR KUSHVAHA",
+    "hq": "GORAKHPUR",
+    "region": "VARANASI"
+  },
+  {
+    "emp_id": 120230,
+    "emp_name": "MR RAVI KUMAR",
+    "hq": "GORAKHPUR",
+    "region": "VARANASI"
+  },
+  {
+    "emp_id": 120430,
+    "emp_name": "MR JAYANT KUMAR RAY",
+    "hq": "DEORIA",
+    "region": "VARANASI"
+  },
+  {
+    "emp_id": 113004,
+    "emp_name": "MR JITENDRA KUMAR MAURYA",
+    "hq": "FAIZABAD",
+    "region": "VARANASI"
+  },
+  {
+    "emp_id": 105059,
+    "emp_name": "MR ARUN KUMAR GUPTA",
+    "hq": "AYODHYA",
+    "region": "VARANASI"
+  },
+  {
+    "emp_id": 133698,
+    "emp_name": "MR SATYAM SHUKLA",
+    "hq": "BASTI",
+    "region": "VARANASI"
+  },
+  {
+    "emp_id": 90461,
+    "emp_name": "MR MANISH GUPTA",
+    "hq": "JAUNPUR",
+    "region": "VARANASI"
+  },
+  {
+    "emp_id": 12787,
+    "emp_name": "MR AJAY KASHYAP",
+    "hq": "GHAZIABAD",
+    "region": "GHAZIABAD"
+  },
+  {
+    "emp_id": 126466,
+    "emp_name": "MR PANKAJ GARG",
+    "hq": "GHAZIABAD",
+    "region": "GHAZIABAD"
+  },
+  {
+    "emp_id": 117809,
+    "emp_name": "MR MANAS GUPTA",
+    "hq": "GHAZIABAD",
+    "region": "GHAZIABAD"
+  },
+  {
+    "emp_id": 134062,
+    "emp_name": "MR PRASHANT GAUTAM",
+    "hq": "GHAZIABAD",
+    "region": "GHAZIABAD"
+  },
+  {
+    "emp_id": 116344,
+    "emp_name": "MR HIMAVANT KUMAR SHUKLA",
+    "hq": "GHAZIABAD",
+    "region": "GHAZIABAD"
+  },
+  {
+    "emp_id": 115650,
+    "emp_name": "MR ATIR FAHEEM",
+    "hq": "MORADABAD",
+    "region": "GHAZIABAD"
+  },
+  {
+    "emp_id": 43700,
+    "emp_name": "MR VIKRAM KUMAR SINGH",
+    "hq": "NOIDA",
+    "region": "GHAZIABAD"
+  },
+  {
+    "emp_id": 129066,
+    "emp_name": "MR MANISH RAJ VERMA",
+    "hq": "NOIDA",
+    "region": "GHAZIABAD"
+  },
+  {
+    "emp_id": 121799,
+    "emp_name": "MR KRISHN DUTT",
+    "hq": "AGRA",
+    "region": "GHAZIABAD"
+  },
+  {
+    "emp_id": 131940,
+    "emp_name": "MR SHIVAM PAL",
+    "hq": "AGRA",
+    "region": "GHAZIABAD"
+  },
+  {
+    "emp_id": 104512,
+    "emp_name": "MR PARVEZ ALAM",
+    "hq": "AGRA",
+    "region": "GHAZIABAD"
+  },
+  {
+    "emp_id": 121958,
+    "emp_name": "MR RAHUL DIWAKAR",
+    "hq": "AGRA",
+    "region": "GHAZIABAD"
+  },
+  {
+    "emp_id": 128470,
+    "emp_name": "MR NEM SINGH",
+    "hq": "ALIGARH",
+    "region": "GHAZIABAD"
+  },
+  {
+    "emp_id": 116781,
+    "emp_name": "MR SUNEEL KUMAR",
+    "hq": "MEERUT",
+    "region": "GHAZIABAD"
+  },
+  {
+    "emp_id": 69196,
+    "emp_name": "MR VIKAS SHARMA",
+    "hq": "MEERUT",
+    "region": "GHAZIABAD"
+  },
+  {
+    "emp_id": 63045,
+    "emp_name": "MR ARVIND KUMAR SAINI",
+    "hq": "MEERUT",
+    "region": "GHAZIABAD"
+  },
+  {
+    "emp_id": 112587,
+    "emp_name": "MR HEMANT SHRIVASTAVA",
+    "hq": "MEERUT",
+    "region": "GHAZIABAD"
+  },
+  {
+    "emp_id": 26974,
+    "emp_name": "MR ASHESH KUMAR RAJPUT",
+    "hq": "BIJNOR",
+    "region": "GHAZIABAD"
+  },
+  {
+    "emp_id": 121499,
+    "emp_name": "MR SUMIT KUMAR",
+    "hq": "BIJNOR",
+    "region": "GHAZIABAD"
+  },
+  {
+    "emp_id": 37293,
+    "emp_name": "MR VINAY KUMAR",
+    "hq": "BULANDSHAHR",
+    "region": "GHAZIABAD"
+  },
+  {
+    "emp_id": 133263,
+    "emp_name": "MR SAKSHAM SIROHI",
+    "hq": "SAHARANPUR",
+    "region": "GHAZIABAD"
+  },
+  {
+    "emp_id": 133332,
+    "emp_name": "MR SHIVAM SHARMA",
+    "hq": "DEHRADUN",
+    "region": "GHAZIABAD"
+  },
+  {
+    "emp_id": 69452,
+    "emp_name": "MR ASHISH RAWAT",
+    "hq": "DEHRADUN",
+    "region": "GHAZIABAD"
+  },
+  {
+    "emp_id": 63743,
+    "emp_name": "MR GOURAV SHUKLA",
+    "hq": "MUZAFFARNAGAR",
+    "region": "GHAZIABAD"
+  },
+  {
+    "emp_id": 86618,
+    "emp_name": "MR PRASHANT KUMAR",
+    "hq": "MUZAFFARNAGAR",
+    "region": "GHAZIABAD"
+  },
+  {
+    "emp_id": 131362,
+    "emp_name": "MR ARUN PUNASYA",
+    "hq": "INDORE",
+    "region": "INDORE"
+  },
+  {
+    "emp_id": 116510,
+    "emp_name": "MR DEVENDRA CHOUDHARY",
+    "hq": "INDORE",
+    "region": "INDORE"
+  },
+  {
+    "emp_id": 132181,
+    "emp_name": "MR SHIVAM GURJAR",
+    "hq": "INDORE",
+    "region": "INDORE"
+  },
+  {
+    "emp_id": 62596,
+    "emp_name": "MR ABHISHEK JAIN",
+    "hq": "RATLAM",
+    "region": "INDORE"
+  },
+  {
+    "emp_id": 125002,
+    "emp_name": "MR MD SIRAJ",
+    "hq": "BHOPAL",
+    "region": "INDORE"
+  },
+  {
+    "emp_id": 125110,
+    "emp_name": "MR SANMAN PATEL",
+    "hq": "BHOPAL",
+    "region": "INDORE"
+  },
+  {
+    "emp_id": 136034,
+    "emp_name": "MR ARVIND",
+    "hq": "BHOPAL",
+    "region": "INDORE"
+  },
+  {
+    "emp_id": 131618,
+    "emp_name": "MR SHIVAM RAGHUVANSHI",
+    "hq": "BHOPAL",
+    "region": "INDORE"
+  },
+  {
+    "emp_id": 110520,
+    "emp_name": "MR NAVEEN SONI",
+    "hq": "UJJAIN",
+    "region": "INDORE"
+  },
+  {
+    "emp_id": 114548,
+    "emp_name": "MR RAMRAJ THAKUR",
+    "hq": "SAGAR",
+    "region": "INDORE"
+  },
+  {
+    "emp_id": 33705,
+    "emp_name": "MR VIVEK DWIVEDI",
+    "hq": "GWALIOR",
+    "region": "INDORE"
+  },
+  {
+    "emp_id": 47630,
+    "emp_name": "MR KAPIL KUMAR",
+    "hq": "GWALIOR",
+    "region": "INDORE"
+  },
+  {
+    "emp_id": 114472,
+    "emp_name": "MR PRADEEP KUMAR",
+    "hq": "GWALIOR",
+    "region": "INDORE"
+  },
+  {
+    "emp_id": 43593,
+    "emp_name": "MR PRAKASH SHARMA",
+    "hq": "GUNA",
+    "region": "INDORE"
+  },
+  {
+    "emp_id": 30995,
+    "emp_name": "MR ARVIND KUMAR SINGH",
+    "hq": "REWA",
+    "region": "INDORE"
+  },
+  {
+    "emp_id": 14857,
+    "emp_name": "MR BHUPENDRA PANDEY",
+    "hq": "SATNA",
+    "region": "INDORE"
+  },
+  {
+    "emp_id": 121665,
+    "emp_name": "MR PRASHANT GOSWAMI",
+    "hq": "JABALPUR",
+    "region": "INDORE"
+  },
+  {
+    "emp_id": 110710,
+    "emp_name": "MR KAUSHIK VERMA",
+    "hq": "JABALPUR",
+    "region": "INDORE"
+  },
+  {
+    "emp_id": 106945,
+    "emp_name": "MR RAHUL KUMAR PATEL",
+    "hq": "JABALPUR",
+    "region": "INDORE"
+  },
+  {
+    "emp_id": 126241,
+    "emp_name": "MR SHAHRUKH BEG MIRZA",
+    "hq": "CHINDWARA",
+    "region": "INDORE"
+  },
+  {
+    "emp_id": 69353,
+    "emp_name": "MR ANIL RANA",
+    "hq": "BALAGHAT",
+    "region": "INDORE"
+  },
+  {
+    "emp_id": 131697,
+    "emp_name": "MR RISHABH SINGH THAKUR",
+    "hq": "KATNI",
+    "region": "INDORE"
+  },
+  {
+    "emp_id": 127543,
+    "emp_name": "MR DIBYENDU CHATTERJEE",
+    "hq": "KOLKATA",
+    "region": "KOLKATA"
+  },
+  {
+    "emp_id": 111502,
+    "emp_name": "MR ASHRAF HOSSAIN",
+    "hq": "KOLKATA",
+    "region": "KOLKATA"
+  },
+  {
+    "emp_id": 129364,
+    "emp_name": "MR SABYASACHI GHOSH",
+    "hq": "BURDWAN",
+    "region": "KOLKATA"
+  },
+  {
+    "emp_id": 813137,
+    "emp_name": "MR PARTHA BANERJEE",
+    "hq": "BURDWAN",
+    "region": "KOLKATA"
+  },
+  {
+    "emp_id": 3583,
+    "emp_name": "MR SUSHANTA MAHADANI",
+    "hq": "MIDNAPORE",
+    "region": "KOLKATA"
+  },
+  {
+    "emp_id": 1771,
+    "emp_name": "MR A  BHATTACHARYA",
+    "hq": "TAMLUK",
+    "region": "KOLKATA"
+  },
+  {
+    "emp_id": 12079,
+    "emp_name": "MR SHYAMAPADA KARMAKAR",
+    "hq": "BANKURA",
+    "region": "KOLKATA"
+  },
+  {
+    "emp_id": 106962,
+    "emp_name": "MR JAYANTA BARAT",
+    "hq": "ASANSOL",
+    "region": "KOLKATA"
+  },
+  {
+    "emp_id": 2103,
+    "emp_name": "MR AMIT DE",
+    "hq": "HOWRAH",
+    "region": "KOLKATA"
+  },
+  {
+    "emp_id": 106960,
+    "emp_name": "MR MD. ZEESHAN",
+    "hq": "HOOGHLY",
+    "region": "KOLKATA"
+  },
+  {
+    "emp_id": 133164,
+    "emp_name": "MR ARUP KUMAR DALUI",
+    "hq": "RAMPURHAT",
+    "region": "KOLKATA"
+  },
+  {
+    "emp_id": 135740,
+    "emp_name": "MR ARUP DAS",
+    "hq": "NORTH KOLKATA",
+    "region": "KOLKATA"
+  },
+  {
+    "emp_id": 64270,
+    "emp_name": "MR SURAJIT BHAUMIK",
+    "hq": "NORTH KOLKATA",
+    "region": "KOLKATA"
+  },
+  {
+    "emp_id": 8334,
+    "emp_name": "MR PUSPEN CHATTERJEE",
+    "hq": "NORTH KOLKATA",
+    "region": "KOLKATA"
+  },
+  {
+    "emp_id": 132350,
+    "emp_name": "MR INDRANIL SHOME",
+    "hq": "NORTH KOLKATA",
+    "region": "KOLKATA"
+  },
+  {
+    "emp_id": 133132,
+    "emp_name": "MR DEBASISH DEY",
+    "hq": "NORTH KOLKATA",
+    "region": "KOLKATA"
+  },
+  {
+    "emp_id": 136973,
+    "emp_name": "MR SHUBHAM GUPTA",
+    "hq": "NORTH KOLKATA",
+    "region": "KOLKATA"
+  },
+  {
+    "emp_id": 133999,
+    "emp_name": "MR ANUPAM GANGULY",
+    "hq": "BARASAT",
+    "region": "KOLKATA"
+  },
+  {
+    "emp_id": 24444,
+    "emp_name": "MS ANANYA MUKHERJEE",
+    "hq": "SOUTH KOLKATA",
+    "region": "KOLKATA"
+  },
+  {
+    "emp_id": 133131,
+    "emp_name": "MS OENDRILA DHARA",
+    "hq": "SOUTH KOLKATA",
+    "region": "KOLKATA"
+  },
+  {
+    "emp_id": 6911,
+    "emp_name": "MR  MD  IRSHAD ABBAS",
+    "hq": "SOUTH KOLKATA",
+    "region": "KOLKATA"
+  },
+  {
+    "emp_id": 106961,
+    "emp_name": "MR AVIJIT NASKAR",
+    "hq": "SOUTH KOLKATA",
+    "region": "KOLKATA"
+  },
+  {
+    "emp_id": 134660,
+    "emp_name": "MR INZAMAMUL HAQUE",
+    "hq": "SOUTH KOLKATA",
+    "region": "KOLKATA"
+  },
+  {
+    "emp_id": 104909,
+    "emp_name": "MR AMITAVA CHAKRABORTY",
+    "hq": "SOUTH KOLKATA",
+    "region": "KOLKATA"
+  },
+  {
+    "emp_id": 8985,
+    "emp_name": "MR AMITAVA SEAL",
+    "hq": "SOUTH KOLKATA",
+    "region": "KOLKATA"
+  },
+  {
+    "emp_id": 136919,
+    "emp_name": "MR ANIKET DEY",
+    "hq": "SOUTH KOLKATA",
+    "region": "KOLKATA"
+  },
+  {
+    "emp_id": 24363,
+    "emp_name": "MR RINTU BHATTACHERJEE",
+    "hq": "SOUTH KOLKATA",
+    "region": "KOLKATA"
+  },
+  {
+    "emp_id": 12061,
+    "emp_name": "MR GOUTAM SAHA",
+    "hq": "SOUTH KOLKATA",
+    "region": "KOLKATA"
+  },
+  {
+    "emp_id": 136026,
+    "emp_name": "MR RIJU CHATTERJEE",
+    "hq": "SOUTH KOLKATA",
+    "region": "KOLKATA"
+  },
+  {
+    "emp_id": 4818,
+    "emp_name": "MR AMIT MAITRA",
+    "hq": "BARUIPUR",
+    "region": "KOLKATA"
+  },
+  {
+    "emp_id": 41449,
+    "emp_name": "MR ALOK KUMAR BASU",
+    "hq": "SILIGURI",
+    "region": "KOLKATA"
+  },
+  {
+    "emp_id": 11701,
+    "emp_name": "MR MANOJ DAS",
+    "hq": "SILIGURI",
+    "region": "KOLKATA"
+  },
+  {
+    "emp_id": 11977,
+    "emp_name": "MR SUDIPTO GHOSH",
+    "hq": "SILIGURI",
+    "region": "KOLKATA"
+  },
+  {
+    "emp_id": 12075,
+    "emp_name": "MR RAKTIM SARKAR",
+    "hq": "COOCHBEHAR",
+    "region": "KOLKATA"
+  },
+  {
+    "emp_id": 3717,
+    "emp_name": "MR NILANJAN ROY",
+    "hq": "MALDA",
+    "region": "KOLKATA"
+  },
+  {
+    "emp_id": 22106,
+    "emp_name": "MR SHIBSANKAR RUDRA",
+    "hq": "KRISHNANAGAR",
+    "region": "KOLKATA"
+  },
+  {
+    "emp_id": 12070,
+    "emp_name": "MR PINAKI BHOWMICK",
+    "hq": "RAIGANJ",
+    "region": "KOLKATA"
+  },
+  {
+    "emp_id": 2718,
+    "emp_name": "MR A  GANGOPADHYAY",
+    "hq": "BERHAMPORE (MURSHIDABAD)",
+    "region": "KOLKATA"
+  },
+  {
+    "emp_id": 123775,
+    "emp_name": "MR AJIT PAL SINGH",
+    "hq": "PATNA",
+    "region": "PATNA"
+  },
+  {
+    "emp_id": 84571,
+    "emp_name": "MR DEEPAK KUMAR",
+    "hq": "PATNA",
+    "region": "PATNA"
+  },
+  {
+    "emp_id": 33333,
+    "emp_name": "MR ROHIT RANJAN VERMA",
+    "hq": "PATNA 1",
+    "region": "PATNA"
+  },
+  {
+    "emp_id": 2741,
+    "emp_name": "MR D  K  GUPTA",
+    "hq": "PATNA 2",
+    "region": "PATNA"
+  },
+  {
+    "emp_id": 34891,
+    "emp_name": "MR PRAKASH  KESHAV",
+    "hq": "PATNA 3",
+    "region": "PATNA"
+  },
+  {
+    "emp_id": 8615,
+    "emp_name": "MR SHIVSHANKAR ROY",
+    "hq": "PATNA 4",
+    "region": "PATNA"
+  },
+  {
+    "emp_id": 21864,
+    "emp_name": "MR JAYNENDAR KUMAR",
+    "hq": "PATNA 5",
+    "region": "PATNA"
+  },
+  {
+    "emp_id": 63184,
+    "emp_name": "MR HARENDRA KUMAR",
+    "hq": "PATNA 6",
+    "region": "PATNA"
+  },
+  {
+    "emp_id": 134455,
+    "emp_name": "MR BIPUL KUMAR",
+    "hq": "LAHERIASARAI",
+    "region": "PATNA"
+  },
+  {
+    "emp_id": 120937,
+    "emp_name": "MR SONU KUMAR",
+    "hq": "LAHERIASARAI",
+    "region": "PATNA"
+  },
+  {
+    "emp_id": 132444,
+    "emp_name": "MR CHANDAN KUMAR",
+    "hq": "LAHERIASARAI",
+    "region": "PATNA"
+  },
+  {
+    "emp_id": 25633,
+    "emp_name": "MR SURENDRA  JHA",
+    "hq": "MADHUBANI",
+    "region": "PATNA"
+  },
+  {
+    "emp_id": 2965,
+    "emp_name": "MR ASHUTOSH SHUKLA",
+    "hq": "SAMASTIPUR",
+    "region": "PATNA"
+  },
+  {
+    "emp_id": 25632,
+    "emp_name": "MR RITESH  SRIVASTAVA",
+    "hq": "SAHARSA",
+    "region": "PATNA"
+  },
+  {
+    "emp_id": 21144,
+    "emp_name": "MR RABISH KUMAR SINHA",
+    "hq": "BEGUSARAI",
+    "region": "PATNA"
+  },
+  {
+    "emp_id": 6596,
+    "emp_name": "MR AWANISH KUMAR SINGH",
+    "hq": "SITAMARHI",
+    "region": "PATNA"
+  },
+  {
+    "emp_id": 123778,
+    "emp_name": "MR SUMIRAN KAUSHIK",
+    "hq": "MUZAFFARPUR",
+    "region": "PATNA"
+  },
+  {
+    "emp_id": 4607,
+    "emp_name": "MR PARSHURAM TIWARY ",
+    "hq": "MUZAFFARPUR",
+    "region": "PATNA"
+  },
+  {
+    "emp_id": 133993,
+    "emp_name": "MR SHUBHAM PRAKASH SINHA",
+    "hq": "MUZAFFARPUR",
+    "region": "PATNA"
+  },
+  {
+    "emp_id": 86385,
+    "emp_name": "MR RAHUL KASHYAP",
+    "hq": "MOTIHARI",
+    "region": "PATNA"
+  },
+  {
+    "emp_id": 3914,
+    "emp_name": "MR ANAND KUMAR",
+    "hq": "CHAPRA",
+    "region": "PATNA"
+  },
+  {
+    "emp_id": 44452,
+    "emp_name": "MR NISHANT KUMAR SINGH",
+    "hq": "SIWAN",
+    "region": "PATNA"
+  },
+  {
+    "emp_id": 44460,
+    "emp_name": "MR SAURABH SARKAR",
+    "hq": "BETTIAH",
+    "region": "PATNA"
+  },
+  {
+    "emp_id": 121185,
+    "emp_name": "MR ABHISHEK KUMAR",
+    "hq": "ARRAH",
+    "region": "PATNA"
+  },
+  {
+    "emp_id": 61443,
+    "emp_name": "MR BHANU PRATAP UPADHYAY",
+    "hq": "ARRAH",
+    "region": "PATNA"
+  },
+  {
+    "emp_id": 13551,
+    "emp_name": "MR SATISH KUMAR",
+    "hq": "GAYA",
+    "region": "PATNA"
+  },
+  {
+    "emp_id": 27962,
+    "emp_name": "MR PRANAY KUMAR TIWARI",
+    "hq": "BIHAR-SHARIF",
+    "region": "PATNA"
+  },
+  {
+    "emp_id": 6711,
+    "emp_name": "MR DIPAK KUMAR ",
+    "hq": "SASARAM / ROHTAS",
+    "region": "PATNA"
+  },
+  {
+    "emp_id": 133923,
+    "emp_name": "MR AZAD KUMAR",
+    "hq": "BHAGALPUR",
+    "region": "PATNA"
+  },
+  {
+    "emp_id": 41512,
+    "emp_name": "MR AMIT KUMAR SINGH",
+    "hq": "PURNEA",
+    "region": "PATNA"
+  },
+  {
+    "emp_id": 63622,
+    "emp_name": "MR SATYAM KUMAR",
+    "hq": "KISHANGANJ",
+    "region": "PATNA"
+  },
+  {
+    "emp_id": 84749,
+    "emp_name": "MR PRADIP KUMAR",
+    "hq": "KATIHAR",
+    "region": "PATNA"
+  },
+  {
+    "emp_id": 41206,
+    "emp_name": "MR BASUKI NATH JHA",
+    "hq": "BHAGALPUR",
+    "region": "PATNA"
+  },
+  {
+    "emp_id": 87456,
+    "emp_name": "MR RUPESH KUMAR",
+    "hq": "BHAGALPUR I",
+    "region": "PATNA"
+  },
+  {
+    "emp_id": 43619,
+    "emp_name": "MR ANIL KUMAR MISHRA",
+    "hq": "DEOGHAR",
+    "region": "PATNA"
+  },
+  {
+    "emp_id": 117009,
+    "emp_name": "MR PANKAJ SHRIVASTAV",
+    "hq": "RANCHI",
+    "region": "RANCHI"
+  },
+  {
+    "emp_id": 39894,
+    "emp_name": "MR RANA ANUJ SINGH",
+    "hq": "RANCHI",
+    "region": "RANCHI"
+  },
+  {
+    "emp_id": 113539,
+    "emp_name": "MR ANAND KUMAR JHA",
+    "hq": "RANCHI",
+    "region": "RANCHI"
+  },
+  {
+    "emp_id": 62635,
+    "emp_name": "MR KANISK KUMAR RAJ",
+    "hq": "RANCHI",
+    "region": "RANCHI"
+  },
+  {
+    "emp_id": 104596,
+    "emp_name": "MR RAVINDRA KUMAR",
+    "hq": "DHANBAD",
+    "region": "RANCHI"
+  },
+  {
+    "emp_id": 121292,
+    "emp_name": "MR DEEPAK KUMAR PANDEY",
+    "hq": "JAMSHEDPUR",
+    "region": "RANCHI"
+  },
+  {
+    "emp_id": 108108,
+    "emp_name": "MR SHYAM HARIPAL",
+    "hq": "JAMSHEDPUR",
+    "region": "RANCHI"
+  },
+  {
+    "emp_id": 82447,
+    "emp_name": "MR GAURAV KUMAR",
+    "hq": "DALTONGANJ",
+    "region": "RANCHI"
+  },
+  {
+    "emp_id": 121218,
+    "emp_name": "MR ANUP SINHA",
+    "hq": "CUTTACK",
+    "region": "RANCHI"
+  },
+  {
+    "emp_id": 62014,
+    "emp_name": "MR SHAHID ANWAR  KHAN",
+    "hq": "CUTTACK",
+    "region": "RANCHI"
+  },
+  {
+    "emp_id": 88557,
+    "emp_name": "MR ASISH SAHOO",
+    "hq": "CUTTACK",
+    "region": "RANCHI"
+  },
+  {
+    "emp_id": 49654,
+    "emp_name": "MR BANMALI ROUL",
+    "hq": "CUTTACK",
+    "region": "RANCHI"
+  },
+  {
+    "emp_id": 110715,
+    "emp_name": "MR CHITTARANJAN JENA",
+    "hq": "SAMBALPUR",
+    "region": "RANCHI"
+  },
+  {
+    "emp_id": 127050,
+    "emp_name": "MR KAMAL LOCHAN NANDA",
+    "hq": "BARIPADA",
+    "region": "RANCHI"
+  },
+  {
+    "emp_id": 100715,
+    "emp_name": "MR MANASHA KUMAR RATHA",
+    "hq": "BHUBANESHWAR",
+    "region": "RANCHI"
+  },
+  {
+    "emp_id": 105065,
+    "emp_name": "MR PRASANTA MALLICK",
+    "hq": "BHUBANESHWAR",
+    "region": "RANCHI"
+  },
+  {
+    "emp_id": 133119,
+    "emp_name": "MR DEBASIS PRADHAN",
+    "hq": "BHUBANESHWAR",
+    "region": "RANCHI"
+  },
+  {
+    "emp_id": 11517,
+    "emp_name": "MR SATYJIT RAY MAHAPATRA",
+    "hq": "BALASORE",
+    "region": "RANCHI"
+  },
+  {
+    "emp_id": 13596,
+    "emp_name": "MR RAM PRASAD MISHRA",
+    "hq": "BERHAMPUR",
+    "region": "RANCHI"
+  },
+  {
+    "emp_id": 135684,
+    "emp_name": "MR BIDHAN CHANDA",
+    "hq": "GUWAHATI",
+    "region": "GUWAHATI"
+  },
+  {
+    "emp_id": 24669,
+    "emp_name": "MR GOUTAM ROY",
+    "hq": "GUWAHATI",
+    "region": "GUWAHATI"
+  },
+  {
+    "emp_id": 109722,
+    "emp_name": "MR GIRINDRA CHOUDHURY",
+    "hq": "GUWAHATI",
+    "region": "GUWAHATI"
+  },
+  {
+    "emp_id": 120656,
+    "emp_name": "MR BISHWAJIT KALITA",
+    "hq": "GUWAHATI",
+    "region": "GUWAHATI"
+  },
+  {
+    "emp_id": 103396,
+    "emp_name": "MR DIPAK KALITA",
+    "hq": "GUWAHATI",
+    "region": "GUWAHATI"
+  },
+  {
+    "emp_id": 116017,
+    "emp_name": "MR SOURAV JYOTI GOSWAMI",
+    "hq": "GUWAHATI",
+    "region": "GUWAHATI"
+  },
+  {
+    "emp_id": 43710,
+    "emp_name": "MR UTPAL BARMAN",
+    "hq": "BONGAIGAON",
+    "region": "GUWAHATI"
+  },
+  {
+    "emp_id": 39004,
+    "emp_name": "MR NITAI ROY",
+    "hq": "NOWGAON",
+    "region": "GUWAHATI"
+  },
+  {
+    "emp_id": 136456,
+    "emp_name": "MR SHEEMANTA DUTTA",
+    "hq": "DIBRUGARH",
+    "region": "GUWAHATI"
+  },
+  {
+    "emp_id": 4616,
+    "emp_name": "MR JAIDEEP DUTTA",
+    "hq": "DIBRUGARH",
+    "region": "GUWAHATI"
+  },
+  {
+    "emp_id": 136727,
+    "emp_name": "MR DEBAJIT BORUAH",
+    "hq": "DIBRUGARH",
+    "region": "GUWAHATI"
+  },
+  {
+    "emp_id": 7596,
+    "emp_name": "MR INAM UDDIN AHMED",
+    "hq": "TINSUKIA",
+    "region": "GUWAHATI"
+  },
+  {
+    "emp_id": 111770,
+    "emp_name": "MR HIMANGSHU CHOUDHURY",
+    "hq": "TEZPUR",
+    "region": "GUWAHATI"
+  },
+  {
+    "emp_id": 104567,
+    "emp_name": "KalyanJyoti Borah",
+    "hq": "JORHAT",
+    "region": "GUWAHATI"
+  },
+  {
+    "emp_id": 120455,
+    "emp_name": "MR JOYDEEP DAS",
+    "hq": "SILCHAR",
+    "region": "GUWAHATI"
+  },
+  {
+    "emp_id": 25211,
+    "emp_name": "MR RAJESH MAJUMDER",
+    "hq": "SILCHAR",
+    "region": "GUWAHATI"
+  },
+  {
+    "emp_id": 134450,
+    "emp_name": "MR SAUVIK PURKAYASTHA",
+    "hq": "SILCHAR",
+    "region": "GUWAHATI"
+  },
+  {
+    "emp_id": 128678,
+    "emp_name": "MR TAYENJAM BIRJIT SINGH",
+    "hq": "IMPHAL",
+    "region": "GUWAHATI"
+  },
+  {
+    "emp_id": 32732,
+    "emp_name": "MR TAPAN MAJUMDER",
+    "hq": "AGARTALA",
+    "region": "GUWAHATI"
+  },
+  {
+    "emp_id": 109858,
+    "emp_name": "MR RAJA GOPAL DAS",
+    "hq": "AGARTALA",
+    "region": "GUWAHATI"
+  },
+  {
+    "emp_id": 133577,
+    "emp_name": "MR ARUN CHAURASIA",
+    "hq": "MUMBAI",
+    "region": "MUMBAI"
+  },
+  {
+    "emp_id": 134570,
+    "emp_name": "MR JWALA SINGH",
+    "hq": "MUMBAI",
+    "region": "MUMBAI"
+  },
+  {
+    "emp_id": 134437,
+    "emp_name": "MR SANDEEP KUMAR CHANDRIKA PRASAD BHATIYA",
+    "hq": "MUMBAI (South)",
+    "region": "MUMBAI"
+  },
+  {
+    "emp_id": 6070,
+    "emp_name": "MS ASMA M NAIK",
+    "hq": "MUMBAI (South)",
+    "region": "MUMBAI"
+  },
+  {
+    "emp_id": 30166,
+    "emp_name": "MR NITESH  DABI",
+    "hq": "MUMBAI (South)",
+    "region": "MUMBAI"
+  },
+  {
+    "emp_id": 106684,
+    "emp_name": "MR SANGEET KUMAR DUBEY",
+    "hq": "MUMBAI (South)",
+    "region": "MUMBAI"
+  },
+  {
+    "emp_id": 130731,
+    "emp_name": "MR MOHAMMAD DANISH ANSARI",
+    "hq": "MUMBAI (South)",
+    "region": "MUMBAI"
+  },
+  {
+    "emp_id": 43705,
+    "emp_name": "MR CHANDRESH MAURYA",
+    "hq": "MUMBAI 2 (UP West)",
+    "region": "MUMBAI"
+  },
+  {
+    "emp_id": 102352,
+    "emp_name": "MR VIRENDRA KUMAR SHARMA",
+    "hq": "MUMBAI 2 (UP West)",
+    "region": "MUMBAI"
+  },
+  {
+    "emp_id": 84816,
+    "emp_name": "MR SANJEEV KUMAR MISHRA",
+    "hq": "MUMBAI 2 (UP West)",
+    "region": "MUMBAI"
+  },
+  {
+    "emp_id": 131720,
+    "emp_name": "MR CHINTU YADAV",
+    "hq": "MUMBAI 2 (UP West)",
+    "region": "MUMBAI"
+  },
+  {
+    "emp_id": 136971,
+    "emp_name": "MR ANUJ MISHRA",
+    "hq": "MUMBAI 2 (UP West)",
+    "region": "MUMBAI"
+  },
+  {
+    "emp_id": 108113,
+    "emp_name": "MR GULAM SABIR",
+    "hq": "MUMBAI 2 (UP West)",
+    "region": "MUMBAI"
+  },
+  {
+    "emp_id": 67288,
+    "emp_name": "MR KUNNUMAKARA RAGUL THILAKAN",
+    "hq": "MUMBAI 3 (Western)",
+    "region": "MUMBAI"
+  },
+  {
+    "emp_id": 137011,
+    "emp_name": "MR SANDEEP SHOBHNATH PAL",
+    "hq": "MUMBAI 3 (Borivali)",
+    "region": "MUMBAI"
+  },
+  {
+    "emp_id": 108135,
+    "emp_name": "MR PAVAN YADAV",
+    "hq": "MUMBAI 3 (Borivali)",
+    "region": "MUMBAI"
+  },
+  {
+    "emp_id": 69736,
+    "emp_name": "MR VIKAS SINGH",
+    "hq": "MUMBAI 3 (Borivali)",
+    "region": "MUMBAI"
+  },
+  {
+    "emp_id": 136857,
+    "emp_name": "MR PRASHANT TRIPATHI",
+    "hq": "MUMBAI 3 (Virar)",
+    "region": "MUMBAI"
+  },
+  {
+    "emp_id": 126206,
+    "emp_name": "MS PRIYANKA SINGH",
+    "hq": "MUMBAI 3 (Virar)",
+    "region": "MUMBAI"
+  },
+  {
+    "emp_id": 35621,
+    "emp_name": "MR RAVIKANT JAISWAR",
+    "hq": "MUMBAI (THANE)",
+    "region": "MUMBAI"
+  },
+  {
+    "emp_id": 110968,
+    "emp_name": "MS PRIYA DEVENDRA TIWARI",
+    "hq": "MUMBAI (DOMBIVALI)",
+    "region": "MUMBAI"
+  },
+  {
+    "emp_id": 137038,
+    "emp_name": "MR VISHAL GUPTA",
+    "hq": "MUMBAI (THANE)",
+    "region": "MUMBAI"
+  },
+  {
+    "emp_id": 80830,
+    "emp_name": "MR LAXMAN KUMAR SONI",
+    "hq": "MUMBAI (THANE)",
+    "region": "MUMBAI"
+  },
+  {
+    "emp_id": 108777,
+    "emp_name": "MR MOHAMMED SHOAIB ANSARI",
+    "hq": "MUMBAI (THANE)",
+    "region": "MUMBAI"
+  },
+  {
+    "emp_id": 134791,
+    "emp_name": "MR KAMLESH GUPTA",
+    "hq": "MUMBAI (RAIGAD)",
+    "region": "MUMBAI"
+  },
+  {
+    "emp_id": 130797,
+    "emp_name": "MR ROSHAN VITHHAL ACHARE",
+    "hq": "MUMBAI (VASHI)",
+    "region": "MUMBAI"
+  },
+  {
+    "emp_id": 110839,
+    "emp_name": "MR MOHD IRFAN KHAN",
+    "hq": "MUMBAI (ALIBAUG)",
+    "region": "MUMBAI"
+  },
+  {
+    "emp_id": 116181,
+    "emp_name": "MR AMBAR MARUTI NALAVADE",
+    "hq": "MUMBAI (PANVEL)",
+    "region": "MUMBAI"
+  },
+  {
+    "emp_id": 132168,
+    "emp_name": "MR DEEPENDRA SINGH",
+    "hq": "MUMBAI (PANVEL)",
+    "region": "MUMBAI"
+  },
+  {
+    "emp_id": 20660,
+    "emp_name": "MR PRATAP PATIL",
+    "hq": "POONA",
+    "region": "POONA"
+  },
+  {
+    "emp_id": 24686,
+    "emp_name": "MR AMOL MOHAN WALE",
+    "hq": "POONA",
+    "region": "POONA"
+  },
+  {
+    "emp_id": 30121,
+    "emp_name": "MR PANKAJ  SONAWANE",
+    "hq": "POONA",
+    "region": "POONA"
+  },
+  {
+    "emp_id": 133511,
+    "emp_name": "MR SURAJ DADASAHEB JAGTAP",
+    "hq": "POONA",
+    "region": "POONA"
+  },
+  {
+    "emp_id": 105138,
+    "emp_name": "MR NARSING MALLIKARJUN PALMATE",
+    "hq": "POONA",
+    "region": "POONA"
+  },
+  {
+    "emp_id": 109258,
+    "emp_name": "MR KRUSHNA SANJAY SURYAVANSHI",
+    "hq": "POONA",
+    "region": "POONA"
+  },
+  {
+    "emp_id": 134526,
+    "emp_name": "MR ANIKET LAXMAN KONDHALKAR",
+    "hq": "POONA",
+    "region": "POONA"
+  },
+  {
+    "emp_id": 24681,
+    "emp_name": "MR MUKESH B PANDIT",
+    "hq": "CHINCHWAD",
+    "region": "POONA"
+  },
+  {
+    "emp_id": 102047,
+    "emp_name": "MR SHASHIKANT VASANT DEORE",
+    "hq": "CHINCHWAD",
+    "region": "POONA"
+  },
+  {
+    "emp_id": 131302,
+    "emp_name": "MR LALIT SAVALE",
+    "hq": "CHINCHWAD",
+    "region": "POONA"
+  },
+  {
+    "emp_id": 63482,
+    "emp_name": "MR GANESH DEORAM SAHANE",
+    "hq": "MANCHAR",
+    "region": "POONA"
+  },
+  {
+    "emp_id": 21007,
+    "emp_name": "MR PRASHANT KESHAV DEVRAT",
+    "hq": "BARAMATI",
+    "region": "POONA"
+  },
+  {
+    "emp_id": 113537,
+    "emp_name": "MR VIVEK NIVRUTTI SANAGAR",
+    "hq": "KOLHAPUR",
+    "region": "POONA"
+  },
+  {
+    "emp_id": 121706,
+    "emp_name": "MR ABHINAY TANAJI PATIL",
+    "hq": "KOLHAPUR",
+    "region": "POONA"
+  },
+  {
+    "emp_id": 85890,
+    "emp_name": "MR GANESH KUMBHAR",
+    "hq": "KOLHAPUR",
+    "region": "POONA"
+  },
+  {
+    "emp_id": 128941,
+    "emp_name": "MR SACHIN KRISHNA KADAM",
+    "hq": "SANGLI",
+    "region": "POONA"
+  },
+  {
+    "emp_id": 21708,
+    "emp_name": "MR TUSHAR SANGAR",
+    "hq": "RATNAGIRI",
+    "region": "POONA"
+  },
+  {
+    "emp_id": 21887,
+    "emp_name": "MR YOGESH KATE",
+    "hq": "SINDHUDURG",
+    "region": "POONA"
+  },
+  {
+    "emp_id": 6464,
+    "emp_name": "MR ATUL MUNOT",
+    "hq": "AHMEDNAGAR",
+    "region": "POONA"
+  },
+  {
+    "emp_id": 2464,
+    "emp_name": "MR VIJAY NALKAR",
+    "hq": "AHMEDNAGAR",
+    "region": "POONA"
+  },
+  {
+    "emp_id": 12155,
+    "emp_name": "MR KIRAN G GANDHI",
+    "hq": "AHMEDNAGAR",
+    "region": "POONA"
+  },
+  {
+    "emp_id": 41454,
+    "emp_name": "MR VINAYAK RAJESH  LANGOTE",
+    "hq": "SOLAPUR",
+    "region": "POONA"
+  },
+  {
+    "emp_id": 5892,
+    "emp_name": "MR MUKUND D PATHAK",
+    "hq": "LATUR",
+    "region": "POONA"
+  },
+  {
+    "emp_id": 112325,
+    "emp_name": "MR SHAILESH KUMAR YENGUNDE",
+    "hq": "NASIK",
+    "region": "POONA"
+  },
+  {
+    "emp_id": 67238,
+    "emp_name": "MR PRADIP MULAY",
+    "hq": "SANGAMNER",
+    "region": "POONA"
+  },
+  {
+    "emp_id": 12702,
+    "emp_name": "MR HANSRAJ PRAKASH DUSANE",
+    "hq": "DHULIA",
+    "region": "POONA"
+  },
+  {
+    "emp_id": 136131,
+    "emp_name": "MR PRASHANT YEOLE",
+    "hq": "MALEGAON",
+    "region": "POONA"
+  },
+  {
+    "emp_id": 4473,
+    "emp_name": "MR MANISH SITHOLEY",
+    "hq": "NAGPUR",
+    "region": "NAGPUR"
+  },
+  {
+    "emp_id": 136423,
+    "emp_name": "MR AMOL CHAKOLE",
+    "hq": "NAGPUR",
+    "region": "NAGPUR"
+  },
+  {
+    "emp_id": 102208,
+    "emp_name": "MR ARBAZ KHAN",
+    "hq": "NAGPUR",
+    "region": "NAGPUR"
+  },
+  {
+    "emp_id": 136018,
+    "emp_name": "MS RADHIKA LAKUDKAR",
+    "hq": "NAGPUR",
+    "region": "NAGPUR"
+  },
+  {
+    "emp_id": 120147,
+    "emp_name": "MRS CHANCHAL PANIGRAHI",
+    "hq": "NAGPUR",
+    "region": "NAGPUR"
+  },
+  {
+    "emp_id": 136731,
+    "emp_name": "MR AMOL GHATE",
+    "hq": "NAGPUR",
+    "region": "NAGPUR"
+  },
+  {
+    "emp_id": 21499,
+    "emp_name": "MR NITIN RAUT",
+    "hq": "YAVATMAL",
+    "region": "NAGPUR"
+  },
+  {
+    "emp_id": 132975,
+    "emp_name": "MR MANISH DILIP RAMTEKE",
+    "hq": "CHANDRAPUR",
+    "region": "NAGPUR"
+  },
+  {
+    "emp_id": 131149,
+    "emp_name": "MR SUYOG SHAH",
+    "hq": "AKOLA",
+    "region": "NAGPUR"
+  },
+  {
+    "emp_id": 38571,
+    "emp_name": "MR MANISH P BHUTADA",
+    "hq": "AKOLA",
+    "region": "NAGPUR"
+  },
+  {
+    "emp_id": 135797,
+    "emp_name": "MR AJAY TANKAR",
+    "hq": "AKOLA",
+    "region": "NAGPUR"
+  },
+  {
+    "emp_id": 128707,
+    "emp_name": "MR SAGAR BHABHANE",
+    "hq": "AMRAVATI",
+    "region": "NAGPUR"
+  },
+  {
+    "emp_id": 127049,
+    "emp_name": "MR KULDIP BHARAT PATIL",
+    "hq": "JALGAON",
+    "region": "NAGPUR"
+  },
+  {
+    "emp_id": 131705,
+    "emp_name": "MR PRAVEEN RATHOD",
+    "hq": "JALGAON",
+    "region": "NAGPUR"
+  },
+  {
+    "emp_id": 117903,
+    "emp_name": "MR RAZA AHMAD KHAN",
+    "hq": "KHAMGAON",
+    "region": "NAGPUR"
+  },
+  {
+    "emp_id": 114686,
+    "emp_name": "MR SHAIKH AHMED",
+    "hq": "AURANGABAD",
+    "region": "NAGPUR"
+  },
+  {
+    "emp_id": 100639,
+    "emp_name": "MR UMER BEG UBED BEG MIRZA",
+    "hq": "AURANGABAD",
+    "region": "NAGPUR"
+  },
+  {
+    "emp_id": 134466,
+    "emp_name": "MR SHAIKH A REHMAN",
+    "hq": "AURANGABAD",
+    "region": "NAGPUR"
+  },
+  {
+    "emp_id": 121647,
+    "emp_name": "MR SACHIN VAIJNATH VAJIRE",
+    "hq": "PARBHANI",
+    "region": "NAGPUR"
+  },
+  {
+    "emp_id": 14198,
+    "emp_name": "MR SIDDIQUI MOHD JAMALUDDIN",
+    "hq": "NANDED",
+    "region": "NAGPUR"
+  },
+  {
+    "emp_id": 28678,
+    "emp_name": "MR HEMAL DAVE",
+    "hq": "BILASPUR",
+    "region": "NAGPUR"
+  },
+  {
+    "emp_id": 134470,
+    "emp_name": "MR SATYENDRA SAHU",
+    "hq": "BILASPUR",
+    "region": "NAGPUR"
+  },
+  {
+    "emp_id": 104408,
+    "emp_name": "MR SANDEEP YADAV",
+    "hq": "BILASPUR",
+    "region": "NAGPUR"
+  },
+  {
+    "emp_id": 135145,
+    "emp_name": "MR NUTAN KUMAR JANGHEL",
+    "hq": "DURG",
+    "region": "NAGPUR"
+  },
+  {
+    "emp_id": 41876,
+    "emp_name": "MR HEMANT KUMAR",
+    "hq": "RAIGARH",
+    "region": "NAGPUR"
+  },
+  {
+    "emp_id": 27527,
+    "emp_name": "MR PRAKASH SARODE",
+    "hq": "RAIPUR",
+    "region": "NAGPUR"
+  },
+  {
+    "emp_id": 116198,
+    "emp_name": "MR SUMIT BASENA",
+    "hq": "RAIPUR",
+    "region": "NAGPUR"
+  },
+  {
+    "emp_id": 14405,
+    "emp_name": "MR SANTOSH SHRIVASTAVA",
+    "hq": "RAIPUR",
+    "region": "NAGPUR"
+  },
+  {
+    "emp_id": 133034,
+    "emp_name": "MR SURAJ DUBEY",
+    "hq": "RAIPUR",
+    "region": "NAGPUR"
+  },
+  {
+    "emp_id": 136428,
+    "emp_name": "MR PAWAN KUMAR RAY",
+    "hq": "RAIPUR",
+    "region": "NAGPUR"
+  },
+  {
+    "emp_id": 43702,
+    "emp_name": "MR VINOD KUMAR DOHARE",
+    "hq": "GONDIA",
+    "region": "NAGPUR"
+  },
+  {
+    "emp_id": 48099,
+    "emp_name": "MR RAKESH KUMAR SINGH",
+    "hq": "AHMEDABAD",
+    "region": "AHMEDABAD"
+  },
+  {
+    "emp_id": 110997,
+    "emp_name": "MR RONAKKUMAR DILIPKUMAR PATEL",
+    "hq": "AHMEDABAD",
+    "region": "AHMEDABAD"
+  },
+  {
+    "emp_id": 3953,
+    "emp_name": "MS SHILPA RAMI",
+    "hq": "AHMEDABAD",
+    "region": "AHMEDABAD"
+  },
+  {
+    "emp_id": 125107,
+    "emp_name": "MR RAVI JAYSWAL",
+    "hq": "AHMEDABAD",
+    "region": "AHMEDABAD"
+  },
+  {
+    "emp_id": 116015,
+    "emp_name": "MR DARSHAN PANDYA",
+    "hq": "AHMEDABAD",
+    "region": "AHMEDABAD"
+  },
+  {
+    "emp_id": 60207,
+    "emp_name": "MR SHANKAR SHARMA",
+    "hq": "HIMMATNAGAR",
+    "region": "AHMEDABAD"
+  },
+  {
+    "emp_id": 131468,
+    "emp_name": "MR VIJAY RAWAL",
+    "hq": "BHAVNAGAR",
+    "region": "AHMEDABAD"
+  },
+  {
+    "emp_id": 49284,
+    "emp_name": "MR CHIRAG VYAS",
+    "hq": "AHMEDABAD",
+    "region": "AHMEDABAD"
+  },
+  {
+    "emp_id": 135460,
+    "emp_name": "MR PRATIK R PATEL",
+    "hq": "AHMEDABAD",
+    "region": "AHMEDABAD"
+  },
+  {
+    "emp_id": 129522,
+    "emp_name": "MR NIRAV DARJI",
+    "hq": "AHMEDABAD",
+    "region": "AHMEDABAD"
+  },
+  {
+    "emp_id": 130950,
+    "emp_name": "MR ADARSH JIGNESHBHAI MAKHIYAVIYA",
+    "hq": "AHMEDABAD",
+    "region": "AHMEDABAD"
+  },
+  {
+    "emp_id": 128528,
+    "emp_name": "MR ASIF R MALEK",
+    "hq": "BARODA",
+    "region": "AHMEDABAD"
+  },
+  {
+    "emp_id": 128775,
+    "emp_name": "MR MOHAMMAD AFFWAN SHETHWALA",
+    "hq": "BARODA",
+    "region": "AHMEDABAD"
+  },
+  {
+    "emp_id": 100643,
+    "emp_name": "MR IMRAN USMANBHAI DIWAN",
+    "hq": "BARODA",
+    "region": "AHMEDABAD"
+  },
+  {
+    "emp_id": 117047,
+    "emp_name": "MR ADITYA VYAS",
+    "hq": "BARODA",
+    "region": "AHMEDABAD"
+  },
+  {
+    "emp_id": 128350,
+    "emp_name": "MR PRANAV VAGHELA",
+    "hq": "GODHARA",
+    "region": "AHMEDABAD"
+  },
+  {
+    "emp_id": 127491,
+    "emp_name": "MR VIRENDRA GIRASE",
+    "hq": "NADIAD",
+    "region": "AHMEDABAD"
+  },
+  {
+    "emp_id": 107111,
+    "emp_name": "MR DEVIN  R SURTI",
+    "hq": "SURAT",
+    "region": "AHMEDABAD"
+  },
+  {
+    "emp_id": 114713,
+    "emp_name": "MR NITESH D SINGH",
+    "hq": "SURAT",
+    "region": "AHMEDABAD"
+  },
+  {
+    "emp_id": 106949,
+    "emp_name": "MR SUNIL KACHHADIYA",
+    "hq": "SURAT",
+    "region": "AHMEDABAD"
+  },
+  {
+    "emp_id": 120596,
+    "emp_name": "MR KISHOR KHAIRNAR",
+    "hq": "SURAT",
+    "region": "AHMEDABAD"
+  },
+  {
+    "emp_id": 110712,
+    "emp_name": "MR SANJAY KATARIYA",
+    "hq": "SURAT",
+    "region": "AHMEDABAD"
+  },
+  {
+    "emp_id": 67677,
+    "emp_name": "MR RAJESH KESHARVANI",
+    "hq": "VALSAD",
+    "region": "AHMEDABAD"
+  },
+  {
+    "emp_id": 131642,
+    "emp_name": "MR BIPIN VASOLIYA",
+    "hq": "RAJKOT",
+    "region": "AHMEDABAD"
+  },
+  {
+    "emp_id": 131698,
+    "emp_name": "MR RONAK SHUKLA",
+    "hq": "RAJKOT",
+    "region": "AHMEDABAD"
+  },
+  {
+    "emp_id": 135660,
+    "emp_name": "MR PURVANG JAGDISHBHAI GUNDECHA",
+    "hq": "RAJKOT",
+    "region": "AHMEDABAD"
+  },
+  {
+    "emp_id": 124936,
+    "emp_name": "MR AVINASH JENTILAL SIROYA",
+    "hq": "JUNAGADH",
+    "region": "AHMEDABAD"
+  },
+  {
+    "emp_id": 134295,
+    "emp_name": "MR PARTH BHOJANI",
+    "hq": "JAMNAGAR",
+    "region": "AHMEDABAD"
+  },
+  {
+    "emp_id": 3878,
+    "emp_name": "MR MALLIKARJUNA BOLASHETTY",
+    "hq": "BANGALORE",
+    "region": "BANGALORE"
+  },
+  {
+    "emp_id": 27880,
+    "emp_name": "MR SATISH KUMAR KANOUJIA",
+    "hq": "BANGALORE",
+    "region": "BANGALORE"
+  },
+  {
+    "emp_id": 20619,
+    "emp_name": "MR SRINIVAS G R",
+    "hq": "BANGALORE",
+    "region": "BANGALORE"
+  },
+  {
+    "emp_id": 117044,
+    "emp_name": "MR CHANDRAHAS SINGH",
+    "hq": "BANGALORE",
+    "region": "BANGALORE"
+  },
+  {
+    "emp_id": 86232,
+    "emp_name": "MR MD FARUQ SHERI",
+    "hq": "BANGALORE",
+    "region": "BANGALORE"
+  },
+  {
+    "emp_id": 128674,
+    "emp_name": "MR B CHANDRASEKHAR",
+    "hq": "BANGALORE",
+    "region": "BANGALORE"
+  },
+  {
+    "emp_id": 49520,
+    "emp_name": "MR JONAH ROY",
+    "hq": "TUMKUR",
+    "region": "BANGALORE"
+  },
+  {
+    "emp_id": 12065,
+    "emp_name": "MR K KRISHNAMURTHY ADIGA",
+    "hq": "BANGALORE",
+    "region": "BANGALORE"
+  },
+  {
+    "emp_id": 66704,
+    "emp_name": "MR AMITH KOTRESH H",
+    "hq": "BANGALORE",
+    "region": "BANGALORE"
+  },
+  {
+    "emp_id": 36969,
+    "emp_name": "MR MANJUNATH SHIRUR",
+    "hq": "BANGALORE",
+    "region": "BANGALORE"
+  },
+  {
+    "emp_id": 111456,
+    "emp_name": "MR P N BALARAJU",
+    "hq": "BANGALORE",
+    "region": "BANGALORE"
+  },
+  {
+    "emp_id": 136982,
+    "emp_name": "MR MAHENDRA V",
+    "hq": "BANGALORE",
+    "region": "BANGALORE"
+  },
+  {
+    "emp_id": 116517,
+    "emp_name": "MR PRADEEPKUMAR R N",
+    "hq": "MANDYA",
+    "region": "BANGALORE"
+  },
+  {
+    "emp_id": 113934,
+    "emp_name": "MR SHASHIKUMAR M",
+    "hq": "BANGALORE",
+    "region": "BANGALORE"
+  },
+  {
+    "emp_id": 133347,
+    "emp_name": "MR RAHUL ANAND",
+    "hq": "BANGALORE",
+    "region": "BANGALORE"
+  },
+  {
+    "emp_id": 132939,
+    "emp_name": "MR NAGENDRA S",
+    "hq": "BANGALORE",
+    "region": "BANGALORE"
+  },
+  {
+    "emp_id": 133033,
+    "emp_name": "MR THIMMARAJU N",
+    "hq": "BANGALORE",
+    "region": "BANGALORE"
+  },
+  {
+    "emp_id": 134844,
+    "emp_name": "MR ABHISHEK H G",
+    "hq": "HASSAN",
+    "region": "BANGALORE"
+  },
+  {
+    "emp_id": 4045,
+    "emp_name": "MS RASHMI MITRA",
+    "hq": "BANGALORE",
+    "region": "BANGALORE"
+  },
+  {
+    "emp_id": 132349,
+    "emp_name": "MR VINAY MAURYA",
+    "hq": "BANGALORE",
+    "region": "BANGALORE"
+  },
+  {
+    "emp_id": 132185,
+    "emp_name": "MR VIJAY YADAV",
+    "hq": "BANGALORE",
+    "region": "BANGALORE"
+  },
+  {
+    "emp_id": 133795,
+    "emp_name": "MR VISHWANATH M",
+    "hq": "BANGALORE",
+    "region": "BANGALORE"
+  },
+  {
+    "emp_id": 135306,
+    "emp_name": "MR SACHINKUMAR T S",
+    "hq": "KOLAR",
+    "region": "BANGALORE"
+  },
+  {
+    "emp_id": 136085,
+    "emp_name": "MR JAGADHISH A M",
+    "hq": "MYSORE",
+    "region": "BANGALORE"
+  },
+  {
+    "emp_id": 126517,
+    "emp_name": "MR MAHADEVSWAMY S",
+    "hq": "MYSORE",
+    "region": "BANGALORE"
+  },
+  {
+    "emp_id": 136945,
+    "emp_name": "MR NIRANJAN K P",
+    "hq": "MYSORE",
+    "region": "BANGALORE"
+  },
+  {
+    "emp_id": 136147,
+    "emp_name": "MR PRAJWAL JAYARAJ K J",
+    "hq": "MANGALORE",
+    "region": "BANGALORE"
+  },
+  {
+    "emp_id": 106150,
+    "emp_name": "MR PRAKASH SHET K",
+    "hq": "UDIPI",
+    "region": "BANGALORE"
+  },
+  {
+    "emp_id": 67675,
+    "emp_name": "MR ARAVIND NADIGER",
+    "hq": "HUBLI",
+    "region": "HUBLI"
+  },
+  {
+    "emp_id": 88171,
+    "emp_name": "MR MAHANTESH SANBAL",
+    "hq": "HUBLI",
+    "region": "HUBLI"
+  },
+  {
+    "emp_id": 116501,
+    "emp_name": "MR GOUDAPPA GOUDRA",
+    "hq": "HUBLI",
+    "region": "HUBLI"
+  },
+  {
+    "emp_id": 63040,
+    "emp_name": "MR ANANDGOUDA  B  PATIL",
+    "hq": "HUBLI",
+    "region": "HUBLI"
+  },
+  {
+    "emp_id": 37684,
+    "emp_name": "MR KUMAR GANACHARI",
+    "hq": "HUBLI",
+    "region": "HUBLI"
+  },
+  {
+    "emp_id": 131169,
+    "emp_name": "MR MRUTYUNJAY KUNDGOL",
+    "hq": "HUBLI",
+    "region": "HUBLI"
+  },
+  {
+    "emp_id": 128240,
+    "emp_name": "MR SANTASAGAR BALAMBEED",
+    "hq": "HUBLI",
+    "region": "HUBLI"
+  },
+  {
+    "emp_id": 66425,
+    "emp_name": "MR MOHAMMED SHARIF NADAF",
+    "hq": "DAVANGERE",
+    "region": "HUBLI"
+  },
+  {
+    "emp_id": 115774,
+    "emp_name": "MR ARUNKUMAR H K",
+    "hq": "DAVANGERE",
+    "region": "HUBLI"
+  },
+  {
+    "emp_id": 28161,
+    "emp_name": "MR SRIKANTH H S",
+    "hq": "DAVANGERE",
+    "region": "HUBLI"
+  },
+  {
+    "emp_id": 132623,
+    "emp_name": "MR PRABHAYYA HIREMATH",
+    "hq": "BIJAPUR ",
+    "region": "HUBLI"
+  },
+  {
+    "emp_id": 126907,
+    "emp_name": "MR BASAVARAJ PASCHAPUR",
+    "hq": "BIJAPUR ",
+    "region": "HUBLI"
+  },
+  {
+    "emp_id": 83382,
+    "emp_name": "MR DINESH P",
+    "hq": "SHIMOGA",
+    "region": "HUBLI"
+  },
+  {
+    "emp_id": 104768,
+    "emp_name": "MR VISHWASA G",
+    "hq": "SHIMOGA",
+    "region": "HUBLI"
+  },
+  {
+    "emp_id": 13527,
+    "emp_name": "MR RAKESH SHEDBALKAR",
+    "hq": "BELGAUM",
+    "region": "HUBLI"
+  },
+  {
+    "emp_id": 107597,
+    "emp_name": "MR RAHUL SAWANT",
+    "hq": "BELGAUM",
+    "region": "HUBLI"
+  },
+  {
+    "emp_id": 112185,
+    "emp_name": "MR GAURANG BHANUSHALI",
+    "hq": "BELGAUM",
+    "region": "HUBLI"
+  },
+  {
+    "emp_id": 112899,
+    "emp_name": "MR REMANNA PRAKASH GAONKAR",
+    "hq": "MARGAO",
+    "region": "HUBLI"
+  },
+  {
+    "emp_id": 133517,
+    "emp_name": "MR PAVAN CHINDARKAR",
+    "hq": "PANJIM",
+    "region": "HUBLI"
+  },
+  {
+    "emp_id": 111603,
+    "emp_name": "MR GUNDERAO JOSHI",
+    "hq": "GULBARGA",
+    "region": "HUBLI"
+  },
+  {
+    "emp_id": 41389,
+    "emp_name": "MR SHIVAJIRAO BIRAJDAR",
+    "hq": "GULBARGA",
+    "region": "HUBLI"
+  },
+  {
+    "emp_id": 83375,
+    "emp_name": "MR GANESH GARAMPALLE",
+    "hq": "GULBARGA",
+    "region": "HUBLI"
+  },
+  {
+    "emp_id": 85734,
+    "emp_name": "MR RAVITEJA Y",
+    "hq": "BELLARY",
+    "region": "HUBLI"
+  },
+  {
+    "emp_id": 136966,
+    "emp_name": "MR T PRASHANTH KUMAR",
+    "hq": "BELLARY",
+    "region": "HUBLI"
+  },
+  {
+    "emp_id": 60488,
+    "emp_name": "MR PRAVEEN SAGARAD",
+    "hq": "RAICHUR",
+    "region": "HUBLI"
+  },
+  {
+    "emp_id": 134678,
+    "emp_name": "MR KRISHNA",
+    "hq": "BIDAR",
+    "region": "HUBLI"
+  },
+  {
+    "emp_id": 104586,
+    "emp_name": "MR D LOGANATHAN",
+    "hq": "CHENNAI",
+    "region": "CHENNAI"
+  },
+  {
+    "emp_id": 104889,
+    "emp_name": "MR A PATHURUDEEN",
+    "hq": "CHENNAI I",
+    "region": "CHENNAI"
+  },
+  {
+    "emp_id": 130644,
+    "emp_name": "MR SELVAGANAPATHY KRISHNAN",
+    "hq": "CHENNAI",
+    "region": "CHENNAI"
+  },
+  {
+    "emp_id": 136929,
+    "emp_name": "MR ASHWIN PRABHU C",
+    "hq": "CHENNAI",
+    "region": "CHENNAI"
+  },
+  {
+    "emp_id": 137000,
+    "emp_name": "MR VIGNESHKUMAR M",
+    "hq": "CHENNAI",
+    "region": "CHENNAI"
+  },
+  {
+    "emp_id": 112398,
+    "emp_name": "MR V GURUSAMY",
+    "hq": "CHENNAI",
+    "region": "CHENNAI"
+  },
+  {
+    "emp_id": 12958,
+    "emp_name": "MR SIDDHARTH CHAKRABARTY - ASANSOL",
+    "hq": "CHENNAI",
+    "region": "CHENNAI"
+  },
+  {
+    "emp_id": 135453,
+    "emp_name": "MR NAVEEN KUMAR B",
+    "hq": "VILLUPURAM",
+    "region": "CHENNAI"
+  },
+  {
+    "emp_id": 120090,
+    "emp_name": "MR S PRAVEEN KUMAR",
+    "hq": "CHENNAI II",
+    "region": "CHENNAI"
+  },
+  {
+    "emp_id": 135914,
+    "emp_name": "MR VIMALRAJ R",
+    "hq": "CHENNAI",
+    "region": "CHENNAI"
+  },
+  {
+    "emp_id": 132356,
+    "emp_name": "MR ARVIND KUMAR RAJPUROHIT",
+    "hq": "CHENNAI",
+    "region": "CHENNAI"
+  },
+  {
+    "emp_id": 949,
+    "emp_name": "MR S SRINIVASAN",
+    "hq": "CHENNAI",
+    "region": "CHENNAI"
+  },
+  {
+    "emp_id": 107175,
+    "emp_name": "MR SELVARAJ P",
+    "hq": "CHENNAI",
+    "region": "CHENNAI"
+  },
+  {
+    "emp_id": 131629,
+    "emp_name": "MR RAVI MURUGAN",
+    "hq": "CUDDALORE",
+    "region": "CHENNAI"
+  },
+  {
+    "emp_id": 115993,
+    "emp_name": "MR ELUMALAI C",
+    "hq": "VELLORE",
+    "region": "CHENNAI"
+  },
+  {
+    "emp_id": 126916,
+    "emp_name": "MR S J GANESHKUMAR",
+    "hq": "MADURAI",
+    "region": "MADURAI"
+  },
+  {
+    "emp_id": 137005,
+    "emp_name": "MR GOPINATHMARI GANESAN",
+    "hq": "MADURAI",
+    "region": "MADURAI"
+  },
+  {
+    "emp_id": 121208,
+    "emp_name": "MR G JEYAPRAKASH",
+    "hq": "MADURAI",
+    "region": "MADURAI"
+  },
+  {
+    "emp_id": 63357,
+    "emp_name": "MR N.  SHANMUGAVEL",
+    "hq": "TIRUNELVELI",
+    "region": "MADURAI"
+  },
+  {
+    "emp_id": 136440,
+    "emp_name": "MR SUBIN A",
+    "hq": "NAGERCOIL",
+    "region": "MADURAI"
+  },
+  {
+    "emp_id": 69486,
+    "emp_name": "MR K KANTHARI  RAJAN",
+    "hq": "TUTICORIN",
+    "region": "MADURAI"
+  },
+  {
+    "emp_id": 14199,
+    "emp_name": "MR V MAHALINGAM",
+    "hq": "COIMBATORE",
+    "region": "MADURAI"
+  },
+  {
+    "emp_id": 125106,
+    "emp_name": "MR SOBAN BABU",
+    "hq": "COIMBATORE",
+    "region": "MADURAI"
+  },
+  {
+    "emp_id": 86326,
+    "emp_name": "MR DHARUMALINGAM  R",
+    "hq": "COIMBATORE",
+    "region": "MADURAI"
+  },
+  {
+    "emp_id": 133497,
+    "emp_name": "MR THENNARASU CHINNASAMI",
+    "hq": "COIMBATORE",
+    "region": "MADURAI"
+  },
+  {
+    "emp_id": 129411,
+    "emp_name": "MR DINESHKUMAR ANANDHAN",
+    "hq": "POLLACHI",
+    "region": "MADURAI"
+  },
+  {
+    "emp_id": 110196,
+    "emp_name": "MR PRABAKARAN.E",
+    "hq": "TIRUPUR",
+    "region": "MADURAI"
+  },
+  {
+    "emp_id": 125648,
+    "emp_name": "MR M UMAR HATHA",
+    "hq": "TRICHY",
+    "region": "MADURAI"
+  },
+  {
+    "emp_id": 116516,
+    "emp_name": "MR VIJAYAKANTH MATHIZHAYAGAN",
+    "hq": "THANJAVUR",
+    "region": "MADURAI"
+  },
+  {
+    "emp_id": 130372,
+    "emp_name": "MR M MANIKANDAN",
+    "hq": "DINDIGUL",
+    "region": "MADURAI"
+  },
+  {
+    "emp_id": 134196,
+    "emp_name": "MR MADHANKUMAR K",
+    "hq": "SALEM",
+    "region": "MADURAI"
+  },
+  {
+    "emp_id": 124682,
+    "emp_name": "MR PALLE NAGESWARA REDDY",
+    "hq": "HYDERABAD",
+    "region": "HYDERABAD"
+  },
+  {
+    "emp_id": 84689,
+    "emp_name": "MR MAHESH THALLAPALLY",
+    "hq": "HYDERABAD I",
+    "region": "HYDERABAD"
+  },
+  {
+    "emp_id": 37466,
+    "emp_name": "MR M MALLESHAM",
+    "hq": "HYDERABAD",
+    "region": "HYDERABAD"
+  },
+  {
+    "emp_id": 37449,
+    "emp_name": "MR P NAVEEN KUMAR",
+    "hq": "HYDERABAD",
+    "region": "HYDERABAD"
+  },
+  {
+    "emp_id": 43027,
+    "emp_name": "MR VENU MUDUDUDLA",
+    "hq": "HYDERABAD",
+    "region": "HYDERABAD"
+  },
+  {
+    "emp_id": 131278,
+    "emp_name": "MR RUDRA SAI TEJA",
+    "hq": "NIZAMABAD",
+    "region": "HYDERABAD"
+  },
+  {
+    "emp_id": 130722,
+    "emp_name": "MR SHIVARAM SRIDHAR GOUD",
+    "hq": "KAMAREDDY",
+    "region": "HYDERABAD"
+  },
+  {
+    "emp_id": 131647,
+    "emp_name": "MR PALREDDY MAHENDHAR REDDY",
+    "hq": "HYDERABAD II",
+    "region": "HYDERABAD"
+  },
+  {
+    "emp_id": 14888,
+    "emp_name": "MR KAMI NARESH KUMAR",
+    "hq": "HYDERABAD",
+    "region": "HYDERABAD"
+  },
+  {
+    "emp_id": 15581,
+    "emp_name": "MS D Y PURNIMA",
+    "hq": "HYDERABAD",
+    "region": "HYDERABAD"
+  },
+  {
+    "emp_id": 12325,
+    "emp_name": "MR VINOD KULKARNI",
+    "hq": "HYDERABAD",
+    "region": "HYDERABAD"
+  },
+  {
+    "emp_id": 12058,
+    "emp_name": "MR M BALESHWAR REDDY",
+    "hq": "HYDERABAD",
+    "region": "HYDERABAD"
+  },
+  {
+    "emp_id": 82047,
+    "emp_name": "MR SAYEED RAFI",
+    "hq": "HYDERABAD",
+    "region": "HYDERABAD"
+  },
+  {
+    "emp_id": 15644,
+    "emp_name": "MR RAVI KUMAR KELOTH",
+    "hq": "HYDERABAD III",
+    "region": "HYDERABAD"
+  },
+  {
+    "emp_id": 130730,
+    "emp_name": "MR DANTURI MANISH GOUD",
+    "hq": "HYDERABAD",
+    "region": "HYDERABAD"
+  },
+  {
+    "emp_id": 24696,
+    "emp_name": "MR RAMAKRISHNA REDDY P",
+    "hq": "HYDERABAD",
+    "region": "HYDERABAD"
+  },
+  {
+    "emp_id": 41734,
+    "emp_name": "MR MOHAMMED IMRAN KHAN",
+    "hq": "HYDERABAD",
+    "region": "HYDERABAD"
+  },
+  {
+    "emp_id": 62395,
+    "emp_name": "MR MOHAMMED MAHEMOOD",
+    "hq": "MEHBOOBNAGAR",
+    "region": "HYDERABAD"
+  },
+  {
+    "emp_id": 131227,
+    "emp_name": "MR UPPALAPALLI SANKAR",
+    "hq": "NALGONDA",
+    "region": "HYDERABAD"
+  },
+  {
+    "emp_id": 25183,
+    "emp_name": "MR GONE SUDHAKAR",
+    "hq": "KARIMNAGAR",
+    "region": "HYDERABAD"
+  },
+  {
+    "emp_id": 131101,
+    "emp_name": "MR DONGALA SAIKRISHNA",
+    "hq": "KARIMNAGAR",
+    "region": "HYDERABAD"
+  },
+  {
+    "emp_id": 132074,
+    "emp_name": "MR AMARAGANI SANTHOSH",
+    "hq": "KARIMNAGAR",
+    "region": "HYDERABAD"
+  },
+  {
+    "emp_id": 24683,
+    "emp_name": "MR NAGARAJU SAMA",
+    "hq": "JAGITIAL",
+    "region": "HYDERABAD"
+  },
+  {
+    "emp_id": 11245,
+    "emp_name": "MR ARUN KUMAR J.",
+    "hq": "WARANGAL",
+    "region": "HYDERABAD"
+  },
+  {
+    "emp_id": 134459,
+    "emp_name": "MR NARSIMHA REDDY KUNTA",
+    "hq": "WARANGAL",
+    "region": "HYDERABAD"
+  },
+  {
+    "emp_id": 68090,
+    "emp_name": "MR G VENKATESWARLU",
+    "hq": "KHAMMAM",
+    "region": "HYDERABAD"
+  },
+  {
+    "emp_id": 135073,
+    "emp_name": "MR UMAMAHESHWARA",
+    "hq": "VIJAYWADA",
+    "region": "VIJAYWADA"
+  },
+  {
+    "emp_id": 136724,
+    "emp_name": "MR DARAM KISHORE KUMAR",
+    "hq": "VIJAYWADA",
+    "region": "VIJAYWADA"
+  },
+  {
+    "emp_id": 3721,
+    "emp_name": "MR MD.NAZEERUDDIN",
+    "hq": "VIJAYWADA",
+    "region": "VIJAYWADA"
+  },
+  {
+    "emp_id": 100253,
+    "emp_name": "MR RAVI KUMAR POKURI",
+    "hq": "VIJAYWADA",
+    "region": "VIJAYWADA"
+  },
+  {
+    "emp_id": 101421,
+    "emp_name": "MR D YESURATNAM",
+    "hq": "BHIMAVARAM",
+    "region": "VIJAYWADA"
+  },
+  {
+    "emp_id": 2375,
+    "emp_name": "MR N S PHALGUN",
+    "hq": "RAJAHMUNDRY",
+    "region": "VIJAYWADA"
+  },
+  {
+    "emp_id": 46360,
+    "emp_name": "MR VINAY KUMAR VOODI",
+    "hq": "VISAKHAPATNAM",
+    "region": "VIJAYWADA"
+  },
+  {
+    "emp_id": 37097,
+    "emp_name": "MR SATEESH KUMAR MAMIDIPAKA",
+    "hq": "VISAKHAPATANAM",
+    "region": "VIJAYWADA"
+  },
+  {
+    "emp_id": 63041,
+    "emp_name": "MR SRINIVASU  S V K",
+    "hq": "KAKINADA",
+    "region": "VIJAYWADA"
+  },
+  {
+    "emp_id": 130646,
+    "emp_name": "MR PINNTINTI SIVAKUMAR",
+    "hq": "VIZIANAGARAM",
+    "region": "VIJAYWADA"
+  },
+  {
+    "emp_id": 130359,
+    "emp_name": "MR KUNCHALA JAYARAM",
+    "hq": "SRIKAKULAM",
+    "region": "VIJAYWADA"
+  },
+  {
+    "emp_id": 36338,
+    "emp_name": "MR N MANIKANTA SWAMY",
+    "hq": "AMLAPURAM",
+    "region": "VIJAYWADA"
+  },
+  {
+    "emp_id": 816223,
+    "emp_name": "MR RAVI KUMAR NAYUDU",
+    "hq": "GUNTUR",
+    "region": "VIJAYWADA"
+  },
+  {
+    "emp_id": 131993,
+    "emp_name": "MR ROUTHU JAYAKRISHNA",
+    "hq": "GUNTUR",
+    "region": "VIJAYWADA"
+  },
+  {
+    "emp_id": 114215,
+    "emp_name": "MR CHALLA RAVI",
+    "hq": "GUNTUR",
+    "region": "VIJAYWADA"
+  },
+  {
+    "emp_id": 43513,
+    "emp_name": "MR KANDULA JANARDANA RAO",
+    "hq": "ONGOLE",
+    "region": "VIJAYWADA"
+  },
+  {
+    "emp_id": 135403,
+    "emp_name": "MR TALAPTHI SRIKANTH",
+    "hq": "NELLORE",
+    "region": "VIJAYWADA"
+  },
+  {
+    "emp_id": 135157,
+    "emp_name": "MR VENDRA HARI SAI PRASAD",
+    "hq": "TANUKU",
+    "region": "VIJAYWADA"
+  },
+  {
+    "emp_id": 942,
+    "emp_name": "MR DEBASISH MUKHERJEE",
+    "hq": "KURNOOL",
+    "region": "VIJAYWADA"
+  },
+  {
+    "emp_id": 48722,
+    "emp_name": "MR CHANDRASEKHAR AYYAPU",
+    "hq": "NANDYAL",
+    "region": "VIJAYWADA"
+  },
+  {
+    "emp_id": 14006,
+    "emp_name": "MR M LINGAMAIAH",
+    "hq": "KURNOOL",
+    "region": "VIJAYWADA"
+  },
+  {
+    "emp_id": 112862,
+    "emp_name": "MR B. ZAHEER BASHA",
+    "hq": "KURNOOL",
+    "region": "VIJAYWADA"
+  },
+  {
+    "emp_id": 8986,
+    "emp_name": "MR ISSAC SHAIK",
+    "hq": "ANANTPUR",
+    "region": "VIJAYWADA"
+  },
+  {
+    "emp_id": 13522,
+    "emp_name": "MR K RAMNATH REDDY",
+    "hq": "CUDAPPAH",
+    "region": "VIJAYWADA"
+  },
+  {
+    "emp_id": 126452,
+    "emp_name": "MR VIMAL M V",
+    "hq": "ERNAKULAM",
+    "region": "ERNAKULAM"
+  },
+  {
+    "emp_id": 63209,
+    "emp_name": "MR SAIJU THOMAS",
+    "hq": "ERNAKULAM",
+    "region": "ERNAKULAM"
+  },
+  {
+    "emp_id": 907,
+    "emp_name": "MR JOGY ABRAHAM",
+    "hq": "ERNAKULAM",
+    "region": "ERNAKULAM"
+  },
+  {
+    "emp_id": 5920,
+    "emp_name": "MR SUNIL P MENON",
+    "hq": "ERNAKULAM",
+    "region": "ERNAKULAM"
+  },
+  {
+    "emp_id": 105679,
+    "emp_name": "MR BALU K SUKUMARAN",
+    "hq": "ERNAKULAM",
+    "region": "ERNAKULAM"
+  },
+  {
+    "emp_id": 7756,
+    "emp_name": "MR VARGHESE M D",
+    "hq": "MUVATUPUZHA",
+    "region": "ERNAKULAM"
+  },
+  {
+    "emp_id": 25240,
+    "emp_name": "MR ANISH  P  K",
+    "hq": "ALLEPPEY",
+    "region": "ERNAKULAM"
+  },
+  {
+    "emp_id": 2478,
+    "emp_name": "MR SANJAY S",
+    "hq": "TIRUVALLA",
+    "region": "ERNAKULAM"
+  },
+  {
+    "emp_id": 129389,
+    "emp_name": "MR SREEJITH K",
+    "hq": "CALICUT",
+    "region": "ERNAKULAM"
+  },
+  {
+    "emp_id": 81090,
+    "emp_name": "MR SINJITH  TP",
+    "hq": "CALICUT",
+    "region": "ERNAKULAM"
+  },
+  {
+    "emp_id": 25784,
+    "emp_name": "MR JERIN RAJ  T  V",
+    "hq": "CALICUT",
+    "region": "ERNAKULAM"
+  },
+  {
+    "emp_id": 7646,
+    "emp_name": "MR PRADEEP KUMAR B P",
+    "hq": "SULTAN BETHARI",
+    "region": "ERNAKULAM"
+  },
+  {
+    "emp_id": 31161,
+    "emp_name": "MR PUSHPARAJ  K  S",
+    "hq": "KASARGODE",
+    "region": "ERNAKULAM"
+  },
+  {
+    "emp_id": 982,
+    "emp_name": "MR PRADEEP KUMAR T K   ",
+    "hq": "KANNUR",
+    "region": "ERNAKULAM"
+  },
+  {
+    "emp_id": 121189,
+    "emp_name": "MR SHYAM K S",
+    "hq": "TRIVANDRUM",
+    "region": "ERNAKULAM"
+  },
+  {
+    "emp_id": 28650,
+    "emp_name": "MR ABHILASH B V",
+    "hq": "TRIVANDRUM",
+    "region": "ERNAKULAM"
+  },
+  {
+    "emp_id": 29264,
+    "emp_name": "MR MUHAMMED SIRAJ",
+    "hq": "KOTTAYAM",
+    "region": "ERNAKULAM"
+  },
+  {
+    "emp_id": 5207,
+    "emp_name": "MR MAJID JAHANGIR",
+    "hq": "TRICHUR",
+    "region": "ERNAKULAM"
+  },
+  {
+    "emp_id": 43359,
+    "emp_name": "MR VISHNU VISWAMBARAM",
+    "hq": "TRICHUR",
+    "region": "ERNAKULAM"
+  },
+  {
+    "emp_id": 104707,
+    "emp_name": "MR KEERTHILAL C J",
+    "hq": "TRICHUR",
+    "region": "ERNAKULAM"
+  },
+  {
+    "emp_id": 4497,
+    "emp_name": "MR SHANOJ REGINOLD R.",
+    "hq": "PALGHAT",
+    "region": "ERNAKULAM"
+  },
+  {
+    "emp_id": 28828,
+    "emp_name": "MR RENJITH  K",
+    "hq": "PERINTHALMANNA",
+    "region": "ERNAKULAM"
+  },
+  {
+    "emp_id": 88753,
+    "emp_name": "MR MIDHUN SURENDRAN",
+    "hq": "TIRUR",
+    "region": "ERNAKULAM"
+  },
+  {
+    "emp_id": 104580,
+    "emp_name": "MR MOHAMED SHAKIR P",
+    "hq": "TIRUR",
+    "region": "ERNAKULAM"
+  },
+  {
+    "emp_id": 137019,
+    "emp_name": "MR AJAY SADHU",
+    "hq": "DELHI-I (NORTH)",
+    "region": "DELHI"
+  },
+  {
+    "emp_id": 105289,
+    "emp_name": "MR IMRAN AHMAD",
+    "hq": "DELHI-VI (SOUTH 1)",
+    "region": "DELHI"
+  },
+  {
+    "emp_id": 135525,
+    "emp_name": "MR GOPAL KUMAR",
+    "hq": "DELHI-II (EAST)",
+    "region": "DELHI"
+  },
+  {
+    "emp_id": 45616,
+    "emp_name": "MR MANISH YADAV",
+    "hq": "LUCKNOW",
+    "region": "LUCKNOW"
+  },
+  {
+    "emp_id": 115983,
+    "emp_name": "MR RAJESH KUMAR SADH",
+    "hq": "INDORE",
+    "region": "INDORE"
+  },
+  {
+    "emp_id": 106964,
+    "emp_name": "MR SANDIP ROY",
+    "hq": "KOLKATA",
+    "region": "KOLKATA"
+  },
+  {
+    "emp_id": 61887,
+    "emp_name": "MR GANESH BABAN SHINDE",
+    "hq": "MUMBAI 2 (UP West)",
+    "region": "MUMBAI"
+  },
+  {
+    "emp_id": 135779,
+    "emp_name": "MR ANUP DHARMENDRA SINGH",
+    "hq": "MUMBAI 3 (Western)",
+    "region": "MUMBAI"
+  },
+  {
+    "emp_id": 136395,
+    "emp_name": "MR SOHAIL SHAIKH",
+    "hq": "MUMBAI (South)",
+    "region": "MUMBAI"
+  },
+  {
+    "emp_id": 82041,
+    "emp_name": "MR CHETAN SURESH YADAV",
+    "hq": "POONA",
+    "region": "POONA"
+  },
+  {
+    "emp_id": 88148,
+    "emp_name": "MR KESHAV THOMBRE",
+    "hq": "NAGPUR",
+    "region": "NAGPUR"
+  },
+  {
+    "emp_id": 135755,
+    "emp_name": "MR SHIV RAM MISHRA",
+    "hq": "AHMEDABAD",
+    "region": "AHMEDABAD"
+  },
+  {
+    "emp_id": 128279,
+    "emp_name": "MR U VENKATESULU",
+    "hq": "BANGALORE",
+    "region": "BANGALORE"
+  },
+  {
+    "emp_id": 62745,
+    "emp_name": "MR MATHAN RAJ C",
+    "hq": "CHENNAI",
+    "region": "CHENNAI"
+  },
+  {
+    "emp_id": 104891,
+    "emp_name": "MR A SOLAIRAJ",
+    "hq": "CHENNAI",
+    "region": "CHENNAI"
+  },
+  {
+    "emp_id": 24889,
+    "emp_name": "MR DHANESH KUMAR",
+    "hq": "TRICHUR",
+    "region": "ERNAKULAM"
+  },
+  {
+    "emp_id": 84187,
+    "emp_name": "MR VAISHAKH  K",
+    "hq": "TRIVANDRUM",
+    "region": "ERNAKULAM"
+  }
+]
