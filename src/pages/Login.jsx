@@ -40,9 +40,8 @@ const Login = () => {
         }}
         validationSchema={validationSchema}
         onSubmit={(val) => {
-          const checkUser = usersData.find(
-            (item) => item.emp_id.toString() === val.emp_id.toString()
-          );
+          console.log(val);
+          const checkUser = usersData.find((item) => item.emp_id == val.emp_id);
           if (checkUser) {
             setUser(checkUser);
           } else {
