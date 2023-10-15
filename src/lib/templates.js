@@ -35,10 +35,16 @@ const templates = [
   //   poster_name: "poster 6",
   //   lang: ["english"],
   // },
+  // {
+  //   id: "7",
+  //   poster_path: "poster-7",
+  //   poster_name: "poster 7",
+  //   lang: ["english", "hindi"],
+  // },
   {
-    id: "7",
-    poster_path: "poster-7",
-    poster_name: "poster 7",
+    id: "8",
+    poster_path: "poster-8",
+    poster_name: "poster 8",
     lang: ["english", "hindi"],
   },
 ];
